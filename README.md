@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=8C95FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+%26+Python+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Full+Stack+%26+AI+Applications;SIH+Hackathon+Runner-Up+%F0%9F%8F%86;Open+for+Collaborations+%26+Internships+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=8C95FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+%26+Python+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Full+Stack+%26+AI+Applications;Open+for+Collaborations+%26+Internships+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -39,7 +39,7 @@
 name: Prachi Zala
 role: Full Stack & Python Developer | AI Enthusiast
 focus_areas: [Full-Stack Web & Mobile, GenAI, GraphRAG, Agentic AI, Backend Systems]
-leadership: Team Lead (SIH Hackathon - 2nd Place 🥈)
+leadership: Team Lead (Team of 6 - College Minor Project)
 stack: [Frontend, Backend, Databases, AI/ML Integrations]
 current_learning: [Deep Learning, Cloud Architecture, Modern GenAI Workflows]
 hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
@@ -47,7 +47,7 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
 
 - 💻 **Full Stack Engineering:** Proficient across the entire software development lifecycle — from crafting responsive, modern frontend interfaces (HTML5, CSS3, JavaScript, TypeScript, Flutter) to engineering scalable backend APIs (FastAPI, Flask, Python) and robust database architectures (PostgreSQL, MySQL, Firebase, Neo4j).
 - 🚀 **Intelligent Systems & AI:** Love architecting end-to-end intelligent applications — from AI-driven facial recognition and geofenced attendance platforms to enterprise-grade **GraphRAG Copilots**.
-- 🏆 **Hackathon Proven:** Led a 6-member team to **2nd Place** at the Smart India Hackathon (SIH) Internal Round with our full-stack *AI Smart Attendance System*.
+- 👥 **Leadership & Collaboration:** Led a 6-member team as **Team Leader** to successfully design, develop, and deploy the full-stack *AI Smart Attendance System*.
 - 📜 **Certified In:**
   - *Oracle: Agentic AI Foundations Associate*
   - *Google: Introduction to Generative AI*
@@ -81,7 +81,7 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
     <td width="50%">
       <h3 align="center"><b>🤖 AI Smart Attendance System</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/SIH_2nd_Place-FFD700?style=flat-square&logo=target&logoColor=black" alt="Award"/>
+        <img src="https://img.shields.io/badge/Minor_Project-BCA-blue?style=flat-square" alt="Academic Project"/>
         <img src="https://img.shields.io/badge/Team_Leader-3B47D9?style=flat-square&logo=github&logoColor=white" alt="Role"/>
       </p>
       <p>Employee attendance app combining <b>GPS geofencing</b> with <b>live facial verification</b> to eliminate proxy attendance. Features admin analytics, leave management, and employee self-service.</p>
