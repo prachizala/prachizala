@@ -167,5 +167,5 @@ hobbies: [Building Side Projects, Hackathons, Tech Community]
 </p>
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/prachizala">Prachi Zala</a> • Constantly Learning & Building</sub>
+  <sub>Designed with by <a href="https://github.com/prachizala">Prachi Zala</a> • Constantly Learning & Building</sub>
 </div>
