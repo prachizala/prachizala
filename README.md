@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=8C95FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Python+Developer+%7C+AI+%26+Data+Enthusiast;Building+Real-World+Intelligent+Applications;SIH+Hackathon+Runner-Up+%F0%9F%8F%86;Open+for+Collaborations+%26+Internships+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=8C95FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+%26+Python+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Full+Stack+%26+AI+Applications;SIH+Hackathon+Runner-Up+%F0%9F%8F%86;Open+for+Collaborations+%26+Internships+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🎓 BCA Student & Tech Lead</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Full Stack & Python Developer</strong> • <strong>🎓 Tech Lead</strong>
   </p>
 
   <!-- Social Badges -->
@@ -37,21 +37,23 @@
 
 ```yaml
 name: Prachi Zala
-role: Python Developer & AI Enthusiast
-focus_areas: [GenAI, GraphRAG, Agentic AI, Full-Stack Backend]
+role: Full Stack & Python Developer | AI Enthusiast
+focus_areas: [Full-Stack Web & Mobile, GenAI, GraphRAG, Agentic AI, Backend Systems]
 leadership: Team Lead (SIH Hackathon - 2nd Place 🥈)
+stack: [Frontend, Backend, Databases, AI/ML Integrations]
 current_learning: [Deep Learning, Cloud Architecture, Modern GenAI Workflows]
-hobbies: [Building Side Projects, Hackathons, Tech Community]
+hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
 ```
 
-- 🚀 **What I Do:** I love architecting and developing end-to-end intelligent systems — from AI-driven facial recognition and geofenced attendance apps to enterprise-grade **GraphRAG Copilots**.
-- 🏆 **Hackathon Proven:** Led a 6-member team to **2nd Place** at the Smart India Hackathon (SIH) Internal Round with our *AI Smart Attendance System*.
+- 💻 **Full Stack Engineering:** Proficient across the entire software development lifecycle — from crafting responsive, modern frontend interfaces (HTML5, CSS3, JavaScript, TypeScript, Flutter) to engineering scalable backend APIs (FastAPI, Flask, Python) and robust database architectures (PostgreSQL, MySQL, Firebase, Neo4j).
+- 🚀 **Intelligent Systems & AI:** Love architecting end-to-end intelligent applications — from AI-driven facial recognition and geofenced attendance platforms to enterprise-grade **GraphRAG Copilots**.
+- 🏆 **Hackathon Proven:** Led a 6-member team to **2nd Place** at the Smart India Hackathon (SIH) Internal Round with our full-stack *AI Smart Attendance System*.
 - 📜 **Certified In:**
   - *Oracle: Agentic AI Foundations Associate*
   - *Google: Introduction to Generative AI*
   - *Infosys Springboard: Data Visualization with Tableau*
   - *Akash Technolabs: Android App Development Using Java*
-- 🎯 **Current Goal:** Seeking exciting **Internship & Developer opportunities** where I can contribute to cutting-edge AI, backend, and product engineering teams.
+- 🎯 **Current Goal:** Seeking exciting **Full Stack, Python & AI Developer opportunities / internships** where I can build high-impact production software.
 
 ---
 
