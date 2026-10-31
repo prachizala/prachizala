@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=680&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+%26+Python+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Full+Stack+%26+AI+Apps;Open+for+Collaborations+%26+Internships+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=680&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+%26+Python+Developer;Team+Lead+@+HACKCULT+'26+(IIT+GN);Building+Scalable+Full+Stack+%26+AI+Apps;Open+for+Collaborations+%26+Internships+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Full Stack & Python Developer</strong> • <strong>🏆 Hackathon Team Lead</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Full Stack & Python Developer</strong> • <strong>⚡ Team Lead @ HACKCULT '26 (IIT GN)</strong>
   </p>
 
   <!-- Social Badges -->
@@ -31,7 +31,8 @@
 name: Prachi Zala
 role: Full Stack & Python Developer | AI Enthusiast
 focus_areas: [Full-Stack Web & Mobile, GenAI, GraphRAG, Agentic AI, Backend Systems]
-leadership: Hackathon Team Lead (SIH Internal 🥈, HackDriven & Online Hackathons)
+active_hackathon: Team Lead @ HACKCULT '26 (IIT Gandhinagar × NxtWave) ⚡
+leadership: Hackathon Team Lead (SIH Internal 🥈, VORTEX 2K26 AI, Speed Demon)
 stack: [Frontend, Backend, Databases, AI/ML Integrations]
 current_learning: [Deep Learning, Cloud Architecture, Modern GenAI Workflows]
 hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
@@ -39,7 +40,11 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
 
 - 💻 **Full Stack Engineering:** Proficient across the entire software development lifecycle — from crafting responsive, modern frontend interfaces (HTML5, CSS3, JavaScript, TypeScript, Flutter) to engineering scalable backend APIs (FastAPI, Flask, Python) and robust database architectures (PostgreSQL, MySQL, Firebase, Neo4j).
 - 🚀 **Intelligent Systems & AI:** Love architecting end-to-end intelligent applications — from AI-driven facial recognition and geofenced attendance platforms to enterprise-grade **GraphRAG Copilots**.
-- 👥 **Hackathon Leadership:** Active Hackathon Team Leader with proven track record — led teams to **2nd Place** at the Smart India Hackathon (SIH) Internal Hackathon, led team at **HackDriven**, and continually captaining engineering squads in competitive online hackathons.
+- 👥 **Active Hackathon Team Leader:**
+  - ⚡ **Currently Competing:** Team Leader @ **HACKCULT '26** (IIT Gandhinagar × NxtWave Launchpad)
+  - 🥈 **Smart India Hackathon (SIH):** Led 6-member squad to **2nd Place** in Internal Hackathon
+  - 🧠 **VORTEX 2K26 Global AI Hackathon:** Team Leader of *Team Eklavya* (Innovation Hacks)
+  - ⏱️ **Speed Demon 72-Hour Hackathon:** Team Leader on high-intensity systems sprint
 - 📜 **Certified In:**
   - *Oracle: Agentic AI Foundations Associate*
   - *Google: Introduction to Generative AI*
