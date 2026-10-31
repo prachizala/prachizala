@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Full Stack & Python Developer</strong> • <strong>🎓 Tech Lead</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Full Stack & Python Developer</strong> • <strong>🏆 Hackathon Team Lead</strong>
   </p>
 
   <!-- Social Badges -->
@@ -31,7 +31,7 @@
 name: Prachi Zala
 role: Full Stack & Python Developer | AI Enthusiast
 focus_areas: [Full-Stack Web & Mobile, GenAI, GraphRAG, Agentic AI, Backend Systems]
-leadership: Team Lead (Qoneqt ContentOS)
+leadership: Hackathon Team Lead (SIH Internal 🥈, HackDriven & Online Hackathons)
 stack: [Frontend, Backend, Databases, AI/ML Integrations]
 current_learning: [Deep Learning, Cloud Architecture, Modern GenAI Workflows]
 hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
@@ -39,7 +39,7 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
 
 - 💻 **Full Stack Engineering:** Proficient across the entire software development lifecycle — from crafting responsive, modern frontend interfaces (HTML5, CSS3, JavaScript, TypeScript, Flutter) to engineering scalable backend APIs (FastAPI, Flask, Python) and robust database architectures (PostgreSQL, MySQL, Firebase, Neo4j).
 - 🚀 **Intelligent Systems & AI:** Love architecting end-to-end intelligent applications — from AI-driven facial recognition and geofenced attendance platforms to enterprise-grade **GraphRAG Copilots**.
-- 👥 **Leadership & Collaboration:** Led the engineering team as **Team Leader** on *Qoneqt ContentOS*, architecting autonomous multi-agent scripting and AI video generation pipelines.
+- 👥 **Hackathon Leadership:** Active Hackathon Team Leader with proven track record — led teams to **2nd Place** at the Smart India Hackathon (SIH) Internal Hackathon, led team at **HackDriven**, and continually captaining engineering squads in competitive online hackathons.
 - 📜 **Certified In:**
   - *Oracle: Agentic AI Foundations Associate*
   - *Google: Introduction to Generative AI*
