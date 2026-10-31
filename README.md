@@ -103,7 +103,7 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
     <td width="50%">
       <h3 align="center"><b>⚡ MathSprint</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Academic_Project-2026-blue?style=flat-square" alt="Year"/>
+        <img src="https://img.shields.io/badge/Silver_Oak-Mini_Hackathon-orange?style=flat-square" alt="Silver Oak Mini Hackathon"/>
       </p>
       <p>Real-time competitive math platform where students tackle 10 speed questions in 120s. Includes a live teacher cockpit showing accuracy, class rank, streaks, and focus alerts.</p>
       <p><b>Tech:</b> <code>TypeScript</code>, <code>Firebase Firestore</code>, <code>Realtime Database</code></p>
