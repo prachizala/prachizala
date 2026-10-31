@@ -31,7 +31,7 @@
 name: Prachi Zala
 role: Full Stack & Python Developer | AI Enthusiast
 focus_areas: [Full-Stack Web & Mobile, GenAI, GraphRAG, Agentic AI, Backend Systems]
-leadership: Team Lead (Team of 6 - College Minor Project)
+leadership: Team Lead (Qoneqt ContentOS)
 stack: [Frontend, Backend, Databases, AI/ML Integrations]
 current_learning: [Deep Learning, Cloud Architecture, Modern GenAI Workflows]
 hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
@@ -39,7 +39,7 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
 
 - 💻 **Full Stack Engineering:** Proficient across the entire software development lifecycle — from crafting responsive, modern frontend interfaces (HTML5, CSS3, JavaScript, TypeScript, Flutter) to engineering scalable backend APIs (FastAPI, Flask, Python) and robust database architectures (PostgreSQL, MySQL, Firebase, Neo4j).
 - 🚀 **Intelligent Systems & AI:** Love architecting end-to-end intelligent applications — from AI-driven facial recognition and geofenced attendance platforms to enterprise-grade **GraphRAG Copilots**.
-- 👥 **Leadership & Collaboration:** Led a 6-member team as **Team Leader** to successfully design, develop, and deploy the full-stack *AI Smart Attendance System*.
+- 👥 **Leadership & Collaboration:** Led the engineering team as **Team Leader** on *Qoneqt ContentOS*, architecting autonomous multi-agent scripting and AI video generation pipelines.
 - 📜 **Certified In:**
   - *Oracle: Agentic AI Foundations Associate*
   - *Google: Introduction to Generative AI*
@@ -74,7 +74,6 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
       <h3 align="center"><b>🤖 AI Smart Attendance System</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Minor_Project-BCA-blue?style=flat-square" alt="Academic Project"/>
-        <img src="https://img.shields.io/badge/Team_Leader-3B47D9?style=flat-square&logo=github&logoColor=white" alt="Role"/>
       </p>
       <p>Employee attendance app combining <b>GPS geofencing</b> with <b>live facial verification</b> to eliminate proxy attendance. Features admin analytics, leave management, and employee self-service.</p>
       <p><b>Tech:</b> <code>Flutter</code>, <code>Python</code>, <code>FastAPI</code>, <code>MySQL</code>, <code>Face Recognition</code></p>
@@ -111,6 +110,7 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
       <h3 align="center"><b>🎬 Qoneqt ContentOS</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/GenAI-Multi_Agent-orange?style=flat-square" alt="GenAI"/>
+        <img src="https://img.shields.io/badge/Team_Leader-3B47D9?style=flat-square&logo=github&logoColor=white" alt="Role"/>
       </p>
       <p>Autonomous AI-powered vertical video generation engine featuring coordinated multi-agent scripting, automated voice narration, asset fetching, and video rendering pipeline.</p>
       <p><b>Tech:</b> <code>Python</code>, <code>Multi-Agent Systems</code>, <code>Generative AI</code>, <code>Video Ops</code></p>
