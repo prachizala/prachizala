@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=8C95FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+%26+Python+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Full+Stack+%26+AI+Applications;Open+for+Collaborations+%26+Internships+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=680&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+%26+Python+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Full+Stack+%26+AI+Apps;Open+for+Collaborations+%26+Internships+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -11,18 +11,10 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/prachi-zala-74a08b334/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:prachizala2003@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://prachizala.github.io/prachi-portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-3B47D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://github.com/prachizala">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    <a href="https://www.linkedin.com/in/prachi-zala-74a08b334/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:prachizala2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+    <a href="https://prachizala.github.io/prachi-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3B47D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+    <a href="https://github.com/prachizala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
   <p align="center">
