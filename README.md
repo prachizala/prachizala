@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=680&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+%26+Python+Developer;Team+Lead+@+HACKCULT+'26+(IIT+GN);Building+Scalable+Full+Stack+%26+AI+Apps;Open+for+Collaborations+%26+Internships+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=680&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Python+%26+Full+Stack+Developer;Data+Analytics+%26+Intelligent+Systems;BCA+Student+@+Ahmedabad;Open+for+Internships+%26+Freshman+Roles+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Full Stack & Python Developer</strong> • <strong>⚡ Team Lead @ HACKCULT '26 (IIT GN)</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Python, Full Stack & Data Analytics Developer</strong> • <strong>⚡ Team Lead @ HACKCULT '26</strong>
   </p>
 
   <!-- Social Badges -->
@@ -29,28 +29,22 @@
 
 ```yaml
 name: Prachi Zala
-role: Full Stack & Python Developer | AI Enthusiast
-focus_areas: [Full-Stack Web & Mobile, GenAI, GraphRAG, Agentic AI, Backend Systems]
-active_hackathon: Team Lead @ HACKCULT '26 (IIT Gandhinagar × NxtWave) ⚡
-leadership: Hackathon Team Lead (SIH Internal 🥈, VORTEX 2K26 AI, Speed Demon)
-stack: [Frontend, Backend, Databases, AI/ML Integrations]
-current_learning: [Deep Learning, Cloud Architecture, Modern GenAI Workflows]
-hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
+education: Bachelor of Computer Applications (BCA), Ahmedabad
+role: Python Developer | Full-Stack & Data Analytics Enthusiast
+focus_areas: [Python Backends, Computer Vision, Data Analytics, React Native & Native Android]
+active_hackathons: Team Lead @ HACKCULT '26 (IIT Gandhinagar × NxtWave), SIH Internal 🥈
+core_stack: [Python, FastAPI, OpenCV, Pandas, React Native, Java (Android), SQL]
+current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Architecture]
 ```
 
-- 💻 **Full Stack Engineering:** Proficient across the entire software development lifecycle — from crafting responsive, modern frontend interfaces (HTML5, CSS3, JavaScript, TypeScript, Flutter) to engineering scalable backend APIs (FastAPI, Flask, Python) and robust database architectures (PostgreSQL, MySQL, Firebase, Neo4j).
-- 🚀 **Intelligent Systems & AI:** Love architecting end-to-end intelligent applications — from AI-driven facial recognition and geofenced attendance platforms to enterprise-grade **GraphRAG Copilots**.
-- 👥 **Active Hackathon Team Leader:**
-  - ⚡ **Currently Competing:** Team Leader @ **HACKCULT '26** (IIT Gandhinagar × NxtWave Launchpad)
-  - 🥈 **Smart India Hackathon (SIH):** Led 6-member squad to **2nd Place** in Internal Hackathon
-  - 🧠 **VORTEX 2K26 Global AI Hackathon:** Team Leader of *Team Eklavya* (Innovation Hacks)
-  - ⏱️ **Speed Demon 72-Hour Hackathon:** Team Leader on high-intensity systems sprint
-- 📜 **Certified In:**
-  - *Oracle: Agentic AI Foundations Associate*
-  - *Google: Introduction to Generative AI*
-  - *Infosys Springboard: Data Visualization with Tableau*
-  - *Akash Technolabs: Android App Development Using Java*
-- 🎯 **Current Goal:** Seeking exciting **Full Stack, Python & AI Developer opportunities / internships** where I can build high-impact production software.
+- 💻 **Backend & Systems Engineering:** Focused on building robust, test-driven REST APIs with **Python, FastAPI, SQLAlchemy, and SQLite/PostgreSQL**, applying authentication security, rate limiting, and defensive validation.
+- 📊 **Data Analytics & Applied AI:** Skilled in practical exploratory data analysis, data storytelling, and statistical visualization using **Pandas, NumPy, Matplotlib, Seaborn**, alongside computer vision integrations with **OpenCV**.
+- 📱 **Mobile & Client Engineering:** Experienced in building cross-platform mobile apps with **React Native (Expo)** and native mobile apps with **Java (Android SDK)**.
+- 👥 **Hackathon & Leadership Track Record:**
+  - ⚡ **Team Leader @ HACKCULT '26** (IIT Gandhinagar × NxtWave Launchpad)
+  - 🥈 **Smart India Hackathon (SIH):** Led 6-member squad to **2nd Place** in college internal selection round
+  - 🧠 **VORTEX 2K26 Global AI Hackathon:** Team Leader (Team Eklavya)
+- 🎯 **Career Goal:** Seeking entry-level opportunities and internships in **Python Development, Data Analytics, or Full-Stack Engineering**.
 
 ---
 
@@ -60,12 +54,12 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
-| **Backend & Frameworks** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white"/> |
-| **Mobile & Frontend** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Responsive_Design-264DE4?style=flat-square&logo=w3c&logoColor=white"/> |
-| **AI / ML & Data** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/GraphRAG-8C95FF?style=flat-square&logo=openai&logoColor=black"/> <img src="https://img.shields.io/badge/Face_Recognition-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> |
-| **Databases & Cloud** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/> |
-| **Tools & Platforms** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **Backend & APIs** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white"/> |
+| **Data & Applied AI** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> |
+| **Mobile & Frontend** | <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> |
+| **Databases & Cloud** | <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> |
+| **Tools & Testing** | <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> |
 
 </div>
 
@@ -78,24 +72,25 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
     <td width="50%">
       <h3 align="center"><b>🤖 AI Smart Attendance System</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Minor_Project-BCA-blue?style=flat-square" alt="Academic Project"/>
+        <img src="https://img.shields.io/badge/Academic_Project-BCA_Minor-blue?style=flat-square" alt="Academic Project"/>
+        <img src="https://img.shields.io/badge/Tests-35_Passing-brightgreen?style=flat-square" alt="Tests Passing"/>
       </p>
-      <p>Employee attendance app combining <b>GPS geofencing</b> with <b>live facial verification</b> to eliminate proxy attendance. Features admin analytics, leave management, and employee self-service.</p>
-      <p><b>Tech:</b> <code>Flutter</code>, <code>Python</code>, <code>FastAPI</code>, <code>MySQL</code>, <code>Face Recognition</code></p>
+      <p>Mobile and web attendance platform combining <b>Haversine GPS geofencing</b> with <b>facial feature verification</b> to prevent proxy check-ins. Includes admin dashboard, leave approvals, offline queue, and automated pytest CI workflow.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>FastAPI</code>, <code>OpenCV</code>, <code>React Native (Expo)</code>, <code>SQLite</code>, <code>Pytest</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/AI_Smart_Attendance_System"><b>🔗 View Repository</b></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><b>🧠 Enterprise Knowledge Copilot</b></h3>
+      <h3 align="center"><b>📊 90-Day Attendance Analytics</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/GraphRAG-Active-blueviolet?style=flat-square" alt="GraphRAG"/>
-        <img src="https://img.shields.io/badge/AI_Copilot-Production-success?style=flat-square" alt="Production"/>
+        <img src="https://img.shields.io/badge/Data_Analytics-EDA-blueviolet?style=flat-square" alt="Data Analytics"/>
+        <img src="https://img.shields.io/badge/Workforce-3%2C550_Shifts-informational?style=flat-square" alt="3550 Shifts"/>
       </p>
-      <p>Enterprise-grade Knowledge Graph RAG Copilot uniting <b>PostgreSQL (pgvector)</b> and <b>Neo4j</b> for ultra-accurate hybrid semantic search and relational entity reasoning across vast datasets.</p>
-      <p><b>Tech:</b> <code>Python</code>, <code>GraphRAG</code>, <code>pgvector</code>, <code>Neo4j</code>, <code>LLMs</code></p>
+      <p>End-to-end data analytics case study exploring 3,550 employee punches over 90 days. Models departmental punctuality, commuter transit bottlenecks ($r = +0.67$), day-of-week trends, and actionable HR recommendations.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Jupyter</code></p>
       <p align="center">
-        <a href="https://github.com/prachizala/enterprise-knowledge-copilot"><b>🔗 View Repository</b></a>
+        <a href="https://github.com/prachizala/attendance-data-analytics"><b>🔗 View Repository</b></a>
       </p>
     </td>
   </tr>
@@ -103,24 +98,23 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
     <td width="50%">
       <h3 align="center"><b>⚡ MathSprint</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Silver_Oak-Mini_Hackathon-orange?style=flat-square" alt="Silver Oak Mini Hackathon"/>
+        <img src="https://img.shields.io/badge/Hackathon-Project-orange?style=flat-square" alt="Hackathon Project"/>
       </p>
-      <p>Real-time competitive math platform where students tackle 10 speed questions in 120s. Includes a live teacher cockpit showing accuracy, class rank, streaks, and focus alerts.</p>
-      <p><b>Tech:</b> <code>TypeScript</code>, <code>Firebase Firestore</code>, <code>Realtime Database</code></p>
+      <p>Real-time multiplayer classroom math battle arena where students solve speed questions under a server-synced clock. Engineered with a server-authoritative anti-cheat scoring engine and dual Firebase RTDB + smart polling sync.</p>
+      <p><b>Tech:</b> <code>React Native</code>, <code>Expo</code>, <code>Node.js</code>, <code>Express</code>, <code>TypeScript</code>, <code>Firebase</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/MATHSPRINT"><b>🔗 View Repository</b></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><b>🎬 Qoneqt ContentOS</b></h3>
+      <h3 align="center"><b>🧠 MindTracker Android</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/GenAI-Multi_Agent-orange?style=flat-square" alt="GenAI"/>
-        <img src="https://img.shields.io/badge/Team_Leader-3B47D9?style=flat-square&logo=github&logoColor=white" alt="Role"/>
+        <img src="https://img.shields.io/badge/Mobile-Native_Android-green?style=flat-square" alt="Native Android"/>
       </p>
-      <p>Autonomous AI-powered vertical video generation engine featuring coordinated multi-agent scripting, automated voice narration, asset fetching, and video rendering pipeline.</p>
-      <p><b>Tech:</b> <code>Python</code>, <code>Multi-Agent Systems</code>, <code>Generative AI</code>, <code>Video Ops</code></p>
+      <p>Lightweight, privacy-first personal mood and mindfulness habit tracking Android app. Features guided breathing rhythms, daily mood logs, and reflection journaling with zero network telemetry.</p>
+      <p><b>Tech:</b> <code>Java 8+</code>, <code>Android SDK</code>, <code>SQLite</code>, <code>Material Components</code></p>
       <p align="center">
-        <a href="https://github.com/prachizala/Qoneqt-ContentOS"><b>🔗 View Repository</b></a>
+        <a href="https://github.com/prachizala/mental-health-tracker-android"><b>🔗 View Repository</b></a>
       </p>
     </td>
   </tr>
@@ -141,18 +135,10 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
 
 ---
 
-### 🐍 Contribution Eating Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prachizala/prachizala/output/github-snake-dark.svg" width="100%" alt="GitHub Snake Animation" />
-</div>
-
----
-
 ### 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  Whether you have an interesting project, an internship opening, or just want to chat about AI & Python — feel free to reach out!
+  Whether you have an interesting project, an internship opening, or want to discuss Python, Data Analytics, or Full-Stack Engineering — feel free to reach out!
 </p>
 
 <p align="center">
@@ -166,5 +152,5 @@ hobbies: [Building Full-Stack Products, Hackathons, Tech Community]
 </p>
 
 <div align="center">
-  <sub>Designed with by <a href="https://github.com/prachizala">Prachi Zala</a> • Constantly Learning & Building</sub>
+  <sub>Built by <a href="https://github.com/prachizala">Prachi Zala</a> • Continuous Learning & Honest Engineering</sub>
 </div>
