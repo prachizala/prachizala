@@ -72,7 +72,8 @@ current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Archit
     <td width="50%">
       <h3 align="center"><b>🤖 AI Smart Attendance System</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Academic_Project-BCA_Minor-blue?style=flat-square" alt="Academic Project"/>
+        <img src="https://img.shields.io/badge/BCA_5th_Sem-Minor_Project-blue?style=flat-square" alt="BCA 5th Sem Minor Project"/>
+        <img src="https://img.shields.io/badge/SIH_2026-Internal_🥈_2nd_Place-orange?style=flat-square" alt="SIH 2026 Internal"/>
         <img src="https://img.shields.io/badge/Tests-35_Passing-brightgreen?style=flat-square" alt="Tests Passing"/>
       </p>
       <p>Mobile and web attendance platform combining <b>Haversine GPS geofencing</b> with <b>facial feature verification</b> to prevent proxy check-ins. Includes admin dashboard, leave approvals, offline queue, and automated pytest CI workflow.</p>
