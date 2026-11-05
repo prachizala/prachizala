@@ -40,10 +40,13 @@ current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Archit
 - 💻 **Backend & Systems Engineering:** Focused on building robust, test-driven REST APIs with **Python, FastAPI, SQLAlchemy, and SQLite/PostgreSQL**, applying authentication security, rate limiting, and defensive validation.
 - 📊 **Data Analytics & Applied AI:** Skilled in practical exploratory data analysis, data storytelling, and statistical visualization using **Pandas, NumPy, Matplotlib, Seaborn**, alongside computer vision integrations with **OpenCV**.
 - 📱 **Mobile & Client Engineering:** Experienced in building cross-platform mobile apps with **React Native (Expo)** and native mobile apps with **Java (Android SDK)**.
-- 👥 **Hackathon & Leadership Track Record:**
-  - ⚡ **Team Leader @ HACKCULT '26** (IIT Gandhinagar × NxtWave Launchpad)
-  - 🥈 **Smart India Hackathon (SIH):** Led 6-member squad to **2nd Place** in college internal selection round
-  - 🧠 **VORTEX 2K26 Global AI Hackathon:** Team Leader (Team Eklavya)
+- 👥 **Hackathon & Leadership Track Record (6× Team Leader):**
+  - 🥈 **Smart India Hackathon (SIH 2026):** Team Leader of 6-member squad (Team CyberForge) to **2nd Place** (58/60) in internal college hackathon
+  - 🏆 **Hackbriven Hackathon:** Team Leader at premier National-Level Hackathon in Ahmedabad
+  - 🌐 **VORTEX 2K26 Global AI Innovation Hackathon:** Team Leader (Team Eklavya)
+  - 🚀 **VOYAGEHACK 4.0:** Team Leader driving sprint architecture and delivery
+  - ⚡ **HACKCULT '26:** Team Leader (IIT Gandhinagar × NxtWave Launchpad)
+  - 🎯 **Silver Oak University Mini Hackathon:** Team Leader on real-time MathSprint battle platform
 - 🎯 **Career Goal:** Seeking entry-level opportunities and internships in **Python Development, Data Analytics, or Full-Stack Engineering**.
 
 ---
