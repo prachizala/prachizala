@@ -32,7 +32,7 @@ name: Prachi Zala
 education: Bachelor of Computer Applications (BCA), Ahmedabad
 role: Python Developer | Full-Stack & Data Analytics Enthusiast
 focus_areas: [Python Backends, Computer Vision, Data Analytics, React Native & Native Android]
-active_hackathons: Team Lead @ HACKCULT '26 (IIT Gandhinagar × NxtWave), SIH Internal 🥈
+active_hackathons: 6x Team Leader (HACKCULT '26, Hackbriven, VORTEX 2K26, VOYAGEHACK, SIH Internal 🥈, SOU)
 core_stack: [Python, FastAPI, OpenCV, Pandas, React Native, Java (Android), SQL]
 current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Architecture]
 ```
@@ -41,12 +41,12 @@ current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Archit
 - 📊 **Data Analytics & Applied AI:** Skilled in practical exploratory data analysis, data storytelling, and statistical visualization using **Pandas, NumPy, Matplotlib, Seaborn**, alongside computer vision integrations with **OpenCV**.
 - 📱 **Mobile & Client Engineering:** Experienced in building cross-platform mobile apps with **React Native (Expo)** and native mobile apps with **Java (Android SDK)**.
 - 👥 **Hackathon & Leadership Track Record (6× Team Leader):**
-  - 🥈 **Smart India Hackathon (SIH 2026):** Team Leader of 6-member squad (Team CyberForge) to **2nd Place** (58/60) in internal college hackathon
-  - 🏆 **Hackbriven Hackathon:** Team Leader at premier National-Level Hackathon in Ahmedabad
+  - 🥈 **Smart India Hackathon (SIH 2026):** Team Leader of 6-member squad (Team CyberForge) to **2nd Place** (58/60) in internal college hackathon *(project internal / pending GitHub upload)*
+  - ⚡ **HACKCULT '26 (IIT Gandhinagar × NxtWave):** Team Leader of **Team Believers** • built [Dharohar 4D](https://github.com/prachizala/dharohar-4d) (3D Heritage Digital Twin platform)
+  - 🏆 **Hackbriven Hackathon (Ahmedabad):** Team Leader at premier National-Level Hackathon • built [Qoneqt](https://github.com/prachizala/Qoneqt-ContentOS) (ContentOS workflow engine)
+  - 🎯 **Silver Oak University (SOU) Mini Hackathon:** Team Leader • built [MathSprint](https://github.com/prachizala/MATHSPRINT) (real-time multiplayer classroom speed-math battle arena)
   - 🌐 **VORTEX 2K26 Global AI Innovation Hackathon:** Team Leader (Team Eklavya)
   - 🚀 **VOYAGEHACK 4.0:** Team Leader driving sprint architecture and delivery
-  - ⚡ **HACKCULT '26:** Team Leader (IIT Gandhinagar × NxtWave Launchpad)
-  - 🎯 **Silver Oak University Mini Hackathon:** Team Leader on real-time MathSprint battle platform
 - 🎯 **Career Goal:** Seeking entry-level opportunities and internships in **Python Development, Data Analytics, or Full-Stack Engineering**.
 
 ---
@@ -76,7 +76,7 @@ current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Archit
       <h3 align="center"><b>🤖 AI Smart Attendance System</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/BCA_5th_Sem-Minor_Project-blue?style=flat-square" alt="BCA 5th Sem Minor Project"/>
-        <img src="https://img.shields.io/badge/SIH_2026-Internal_🥈_2nd_Place-orange?style=flat-square" alt="SIH 2026 Internal"/>
+        <img src="https://img.shields.io/badge/Type-Academic_Engineering_Project-blueviolet?style=flat-square" alt="Academic Project"/>
         <img src="https://img.shields.io/badge/Tests-35_Passing-brightgreen?style=flat-square" alt="Tests Passing"/>
       </p>
       <p>Mobile and web attendance platform combining <b>Haversine GPS geofencing</b> with <b>facial feature verification</b> to prevent proxy check-ins. Includes admin dashboard, leave approvals, offline queue, and automated pytest CI workflow.</p>
