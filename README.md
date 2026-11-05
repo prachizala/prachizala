@@ -96,6 +96,18 @@ current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Archit
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center"><b>🧠 Enterprise Knowledge Copilot</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/GenAI-GraphRAG-blueviolet?style=flat-square" alt="GraphRAG"/>
+        <img src="https://img.shields.io/badge/Database-Neo4j_%2B_pgvector-blue?style=flat-square" alt="Databases"/>
+      </p>
+      <p>Enterprise-grade Knowledge Graph RAG Copilot combining <b>PostgreSQL (pgvector)</b> dense embeddings with <b>Neo4j multi-hop graph reasoning</b> and reciprocal rank fusion (RRF) for zero-hallucination semantic search.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>FastAPI</code>, <code>Neo4j</code>, <code>pgvector</code>, <code>Ollama</code>, <code>Next.js 14</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/enterprise-knowledge-copilot"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center"><b>⚡ MathSprint</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Hackathon-Project-orange?style=flat-square" alt="Hackathon Project"/>
@@ -104,17 +116,6 @@ current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Archit
       <p><b>Tech:</b> <code>React Native</code>, <code>Expo</code>, <code>Node.js</code>, <code>Express</code>, <code>TypeScript</code>, <code>Firebase</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/MATHSPRINT"><b>🔗 View Repository</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><b>🧠 MindTracker Android</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Mobile-Native_Android-green?style=flat-square" alt="Native Android"/>
-      </p>
-      <p>Lightweight, privacy-first personal mood and mindfulness habit tracking Android app. Features guided breathing rhythms, daily mood logs, and reflection journaling with zero network telemetry.</p>
-      <p><b>Tech:</b> <code>Java 8+</code>, <code>Android SDK</code>, <code>SQLite</code>, <code>Material Components</code></p>
-      <p align="center">
-        <a href="https://github.com/prachizala/mental-health-tracker-android"><b>🔗 View Repository</b></a>
       </p>
     </td>
   </tr>
