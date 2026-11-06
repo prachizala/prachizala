@@ -114,12 +114,39 @@ current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Archit
     <td width="50%">
       <h3 align="center"><b>⚡ MathSprint</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Hackathon-Project-orange?style=flat-square" alt="Hackathon Project"/>
+        <img src="https://img.shields.io/badge/SOU_Mini_Hackathon-Team_Leader-orange?style=flat-square" alt="SOU Mini Hackathon"/>
+        <img src="https://img.shields.io/badge/Architecture-Anti--Cheat-brightgreen?style=flat-square" alt="Anti Cheat"/>
       </p>
       <p>Real-time multiplayer classroom math battle arena where students solve speed questions under a server-synced clock. Engineered with a server-authoritative anti-cheat scoring engine and dual Firebase RTDB + smart polling sync.</p>
       <p><b>Tech:</b> <code>React Native</code>, <code>Expo</code>, <code>Node.js</code>, <code>Express</code>, <code>TypeScript</code>, <code>Firebase</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/MATHSPRINT"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><b>📝 NoteIQ — AI Active Learning Studio</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Innovations-10_Active_AI_Tools-blueviolet?style=flat-square" alt="10 AI Tools"/>
+        <img src="https://img.shields.io/badge/Type-Academic_Project-blue?style=flat-square" alt="Academic Project"/>
+      </p>
+      <p>Academic intelligence studio featuring <b>10 AI active learning innovations</b>: NotebookLM-style two-host study podcast generator, interactive viva voce simulator, 7-day spaced repetition planner, university exam predictor, and pgvector hybrid retrieval.</p>
+      <p><b>Tech:</b> <code>FastAPI</code>, <code>Next.js 14</code>, <code>PostgreSQL</code>, <code>pgvector</code>, <code>Redis RQ</code>, <code>Docker</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/Ai_Notes_Rating_System"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><b>🌦️ WeatherGPT & 🏏 CricketIQ</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Applied_AI-Decision_Engines-success?style=flat-square" alt="Applied AI"/>
+        <img src="https://img.shields.io/badge/Type-Academic_Projects-blueviolet?style=flat-square" alt="Academic Projects"/>
+      </p>
+      <p><b>WeatherGPT:</b> Highway travel corridor radar with waypoint timeline safety alerts & soundscapes.<br/><b>CricketIQ:</b> Context-aware match tactical intelligence with XGBoost, SHAP explainability, what-if match simulator, and WPA curves.</p>
+      <p><b>Tech:</b> <code>FastAPI</code>, <code>XGBoost</code>, <code>SHAP</code>, <code>ChromaDB</code>, <code>Next.js 16</code>, <code>PWA</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/Weather-Gpt"><b>WeatherGPT</b></a> • <a href="https://github.com/prachizala/CricketIQ-Project"><b>CricketIQ</b></a>
       </p>
     </td>
   </tr>
