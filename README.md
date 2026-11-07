@@ -21,6 +21,10 @@
     <img src="https://komarev.com/ghpvc/?username=prachizala&label=Profile%20Views&color=8C95FF&style=flat-square" alt="Profile Views" />
   </p>
 
+  <p align="center">
+    ⭐ <b>If you find my projects or open-source tools helpful, please consider starring my repositories below!</b> ⭐
+  </p>
+
 </div>
 
 ---
