@@ -86,15 +86,16 @@ current_learning: [Advanced Data Engineering, Cloud Infrastructure, Clean Archit
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><b>📊 90-Day Attendance Analytics</b></h3>
+      <h3 align="center"><b>📊 90-Day Attendance Analytics & ML Simulator</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Data_Analytics-EDA-blueviolet?style=flat-square" alt="Data Analytics"/>
+        <img src="https://img.shields.io/badge/XGBoost-ROC--AUC_0.908-brightgreen?style=flat-square" alt="ROC-AUC 0.908"/>
+        <img src="https://img.shields.io/badge/Streamlit-HR_Simulator-FF4B4B?style=flat-square" alt="Streamlit Simulator"/>
         <img src="https://img.shields.io/badge/Workforce-3%2C550_Shifts-informational?style=flat-square" alt="3550 Shifts"/>
       </p>
-      <p>End-to-end data analytics case study exploring 3,550 employee punches over 90 days. Models departmental punctuality, commuter transit bottlenecks ($r = +0.67$), day-of-week trends, and actionable HR recommendations.</p>
-      <p><b>Tech:</b> <code>Python</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Jupyter</code></p>
+      <p>Workforce intelligence study on 3,550 shifts. Features a <b>predictive XGBoost classifier (ROC-AUC 0.908)</b> forecasting severe tardiness and an <b>interactive Streamlit HR simulator</b> proving a 15-minute flexible grace window reduces tardiness by <b>67.8% across departments</b>.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>XGBoost</code>, <code>Scikit-Learn</code>, <code>Streamlit</code>, <code>Pandas</code>, <code>Seaborn</code>, <code>Altair</code></p>
       <p align="center">
-        <a href="https://github.com/prachizala/attendance-data-analytics"><b>🔗 View Repository</b></a>
+        <a href="https://github.com/prachizala/attendance-data-analytics"><b>👉 View Repository</b></a>
       </p>
     </td>
   </tr>
