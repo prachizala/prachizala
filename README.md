@@ -46,6 +46,7 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
 - 🌐 **Open-Source Contributor:** Contributed to **[encode/starlette](https://github.com/encode/starlette)** (the foundational ASGI framework powering FastAPI) fixing RFC 9110 compliant CORS preflight header handling on empty responses.
 - 🚨 **Mobile & Real-Time Edge Systems:** Engineered **[PulseSync](https://github.com/prachizala/Pulsesync)** — an offline-first real-time emergency & field ops dispatch engine built with Flutter, FastAPI, WebSockets, local SQLite persistence, and Redis geospatial radius indexing.
 - 🧠 **GenAI & Graph Reasoning:** Designed **[Enterprise Knowledge Copilot](https://github.com/prachizala/enterprise-knowledge-copilot)** — Knowledge Graph RAG combining Neo4j multi-hop relationship traversals with PostgreSQL (`pgvector`) dense embeddings and Reciprocal Rank Fusion (RRF).
+- 🧘 **Native Android & On-Device NLP:** Engineered **[Mental Health Tracker](https://github.com/prachizala/mental-health-tracker-android)** — a 100% private native Android wellness suite powered by a pure-Java on-device Cognitive Distortion (CBT) and sentiment analysis engine with 12 passing unit tests and automated CI/CD.
 - 📊 **Data Analytics & Applied ML:** Proven track record in predictive analytics and data storytelling with **Pandas, NumPy, XGBoost, and Streamlit**, including workforce intelligence modeling across 3,550+ shifts.
 - 👥 **Hackathon Leadership Track Record (6× Team Leader):**
   - 🥈 **Smart India Hackathon (SIH 2026):** Team Leader of 6-member squad (Team CyberForge) to **2nd Place** (58/60) in internal college hackathon
@@ -158,6 +159,34 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
       <p><b>Tech:</b> <code>React Native</code>, <code>Expo</code>, <code>Node.js</code>, <code>Express</code>, <code>TypeScript</code>, <code>Firebase</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/MATHSPRINT"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><b>🧘 Mental Health Tracker — On-Device CBT Suite</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square" alt="CI/CD Passing"/>
+        <img src="https://img.shields.io/badge/On--Device-Pure--Java_NLP_%26_CBT-blueviolet?style=flat-square" alt="On-Device CBT"/>
+        <img src="https://img.shields.io/badge/Privacy-100%25_Offline_SQLite-informational?style=flat-square" alt="Offline SQLite"/>
+      </p>
+      <p>Privacy-first native Android mindfulness and mood journaling suite built with pure Java. Features a zero-cloud on-device Cognitive Distortion (CBT) clinical detector that evaluates journal entries across 5 distortion patterns with live therapeutic reframing prompts, animated 4-7-8 & Box breathing visualizers, and automated CI/CD.</p>
+      <p><b>Tech:</b> <code>Java 8+</code>, <code>Android SDK</code>, <code>On-Device NLP</code>, <code>CBT Engine</code>, <code>SQLite</code>, <code>Material 3</code>, <code>JUnit</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/mental-health-tracker-android"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><b>🏛️ Dharohar 4D — 3D Heritage Digital Twin</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HACKCULT_'26-Team_Leader-orange?style=flat-square" alt="HACKCULT '26"/>
+        <img src="https://img.shields.io/badge/WebGL-Three.js_%2B_React_3D-blue?style=flat-square" alt="WebGL 3D"/>
+        <img src="https://img.shields.io/badge/AI-Multilingual_Curator-brightgreen?style=flat-square" alt="AI Curator"/>
+      </p>
+      <p>Interactive 3D digital twin platform for Indian historical monuments built during HACKCULT '26 (IIT Gandhinagar &times; NxtWave). Features real-time WebGL rendering, architectural time-scrubbing, multilingual AI audio guides, and virtual artifact restoration.</p>
+      <p><b>Tech:</b> <code>React</code>, <code>Three.js</code>, <code>TypeScript</code>, <code>FastAPI</code>, <code>TailwindCSS</code>, <code>Docker</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/dharohar-4d"><b>🔗 View Repository</b></a>
       </p>
     </td>
   </tr>
