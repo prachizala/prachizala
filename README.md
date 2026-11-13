@@ -81,6 +81,19 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center"><b>🎬 Qoneqt-ContentOS — Autonomous AI Video Engine</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Hackbriven_National_Hackathon-Team_Leader-orange?style=flat-square" alt="Hackbriven Team Leader"/>
+        <img src="https://img.shields.io/badge/Retention_AI-0--100_Score-purple?style=flat-square" alt="Retention AI"/>
+        <img src="https://img.shields.io/badge/Stack-Next.js_14_%2B_FastAPI-blue?style=flat-square" alt="Tech Stack"/>
+      </p>
+      <p>Autonomous vertical video production engine and multi-channel publishing platform built for Hackbriven National Hackathon. Features coordinated multi-agent scripting (<code>ResearchAgent</code> → <code>ScriptAgent</code> → <code>SceneDirector</code>), Remotion studio player, procedural audio ducking, and an automated <b>Viral Retention Scoring & 1-Click Hook Optimizer</b>.</p>
+      <p><b>Tech:</b> <code>Next.js 14</code>, <code>Python 3.11</code>, <code>FastAPI</code>, <code>Celery</code>, <code>Redis</code>, <code>FFmpeg</code>, <code>Remotion</code>, <code>Docker</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/Qoneqt-ContentOS"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center"><b>⚡ Distributed Task & Background Job Engine</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square" alt="CI/CD Passing"/>
@@ -93,6 +106,8 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
         <a href="https://github.com/prachizala/distributed-task-engine"><b>🔗 View Repository</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><b>🚨 PulseSync — Emergency & Field Ops Dispatch Engine</b></h3>
       <p align="center">
@@ -106,8 +121,6 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
         <a href="https://github.com/prachizala/Pulsesync"><b>🔗 View Repository</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center"><b>🧠 Enterprise Knowledge Copilot</b></h3>
       <p align="center">
@@ -121,6 +134,8 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
         <a href="https://github.com/prachizala/enterprise-knowledge-copilot"><b>🔗 View Repository</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><b>🤖 AI Smart Attendance & Geofenced Security</b></h3>
       <p align="center">
@@ -132,21 +147,6 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
       <p><b>Tech:</b> <code>Python</code>, <code>FastAPI</code>, <code>OpenCV</code>, <code>React Native (Expo)</code>, <code>SQLite</code>, <code>Pytest</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/AI_Smart_Attendance_System"><b>🔗 View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><b>📊 90-Day Attendance Analytics & ML Simulator</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/XGBoost-ROC--AUC_0.908-brightgreen?style=flat-square" alt="ROC-AUC 0.908"/>
-        <img src="https://img.shields.io/badge/Streamlit-HR_Simulator-FF4B4B?style=flat-square" alt="Streamlit Simulator"/>
-        <img src="https://img.shields.io/badge/Workforce-3%2C550_Shifts-informational?style=flat-square" alt="3550 Shifts"/>
-      </p>
-      <p>Workforce intelligence study on 3,550 shifts. Features a <b>predictive XGBoost classifier (ROC-AUC 0.908)</b> forecasting severe tardiness and an <b>interactive Streamlit HR simulator</b> proving a 15-minute flexible grace window reduces tardiness by <b>67.8% across departments</b>.</p>
-      <p><b>Tech:</b> <code>Python</code>, <code>XGBoost</code>, <code>Scikit-Learn</code>, <code>Streamlit</code>, <code>Pandas</code>, <code>Seaborn</code>, <code>Altair</code></p>
-      <p align="center">
-        <a href="https://github.com/prachizala/attendance-data-analytics"><b>👉 View Repository</b></a>
       </p>
     </td>
     <td width="50%">
