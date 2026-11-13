@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Python, Distributed Systems & Full Stack Engineer</strong> • <strong>⚡ Team Lead @ HACKCULT '26</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Python, Distributed Systems & Full-Stack Engineer</strong> • <strong>⚡ Team Lead @ HACKCULT '26</strong>
   </p>
 
   <!-- Social & Credential Badges -->
@@ -33,29 +33,29 @@
 
 ```yaml
 name: Prachi Zala
-education: Bachelor of Computer Applications (BCA), Ahmedabad (CGPA: 9.12)
-role: Python & Distributed Systems Engineer | Full-Stack & Data Analytics
+education: Bachelor of Computer Applications (BCA) @ Shanti Business School, Ahmedabad (CGPA: 9.12)
+role: Python & Distributed Systems Engineer | Full-Stack & Applied AI Developer
 focus_areas: [Distributed Task Engines, Fault-Tolerant Async Systems, GraphRAG, Data Analytics, Flutter]
 open_source: Contributor @ Starlette (FastAPI ASGI Core - RFC 9110 Compliance)
 hackathons: 6x Team Leader (SIH Internal 🥈, HACKCULT '26, Hackbriven, VORTEX 2K26, SOU)
-core_stack: [Python, FastAPI, Celery, Redis, Docker, Dart / Flutter, PostgreSQL, Pandas]
+core_stack: [Python 3.11, FastAPI, Celery, Redis, Docker Compose, Dart / Flutter, PostgreSQL, Pandas]
 current_learning: [Event-Driven Architecture, High-Concurrency Distributed Systems, Kubernetes]
 ```
 
-- ⚡ **Distributed Systems & Async Architecture:** Architected **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** — a production-grade asynchronous task execution engine engineered with Redis `SETNX` client-side enqueue idempotency, Celery worker crash recovery (`task_reject_on_worker_lost`), SQLAlchemy 2.0 async connection pooling, and 100% automated GitHub Actions CI/CD.
-- 🌐 **Open-Source Contributor:** Contributed to **[encode/starlette](https://github.com/encode/starlette)** (the foundational ASGI framework powering FastAPI) fixing RFC 9110 compliant CORS preflight header handling on empty responses.
-- 🚨 **Mobile & Real-Time Edge Systems:** Engineered **[PulseSync](https://github.com/prachizala/Pulsesync)** — an offline-first real-time emergency & field ops dispatch engine built with Flutter, FastAPI, WebSockets, local SQLite persistence, and Redis geospatial radius indexing.
-- 🧠 **GenAI & Graph Reasoning:** Designed **[Enterprise Knowledge Copilot](https://github.com/prachizala/enterprise-knowledge-copilot)** — Knowledge Graph RAG combining Neo4j multi-hop relationship traversals with PostgreSQL (`pgvector`) dense embeddings and Reciprocal Rank Fusion (RRF).
-- 🧘 **Native Android & On-Device NLP:** Engineered **[Mental Health Tracker](https://github.com/prachizala/mental-health-tracker-android)** — a 100% private native Android wellness suite powered by a pure-Java on-device Cognitive Distortion (CBT) and sentiment analysis engine with 12 passing unit tests and automated CI/CD.
-- 📊 **Data Analytics & Applied ML:** Proven track record in predictive analytics and data storytelling with **Pandas, NumPy, XGBoost, and Streamlit**, including workforce intelligence modeling across 3,550+ shifts.
-- 👥 **Hackathon Leadership Track Record (6× Team Leader):**
-  - 🥈 **Smart India Hackathon (SIH 2026):** Team Leader of 6-member squad (Team CyberForge) to **2nd Place** (58/60) in internal college hackathon
-  - ⚡ **HACKCULT '26 (IIT Gandhinagar × NxtWave):** Team Leader of **Team Believers** • built [Dharohar 4D](https://github.com/prachizala/dharohar-4d) (3D Heritage Digital Twin platform)
-  - 🏆 **Hackbriven Hackathon (Ahmedabad):** Team Leader at premier National-Level Hackathon • built [Qoneqt](https://github.com/prachizala/Qoneqt-ContentOS) (ContentOS workflow engine)
-  - 🎯 **Silver Oak University (SOU) Mini Hackathon:** Team Leader • built [MathSprint](https://github.com/prachizala/MATHSPRINT) (real-time multiplayer classroom speed-math battle arena)
-  - 🌐 **VORTEX 2K26 Global AI Innovation Hackathon:** Team Leader (Team Eklavya)
-  - 🚀 **VOYAGEHACK 4.0:** Team Leader driving sprint architecture and technical execution
-- 🎯 **Career Goal:** Open for internships and software engineering roles in **Backend Development, Distributed Systems, Data Engineering, or Full-Stack Architecture**.
+* ⚡ **Distributed Systems & Async Architecture:** Architected **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** — a production-grade asynchronous task execution engine engineered with Redis `SETNX` client-side enqueue idempotency, Celery worker crash recovery (`task_reject_on_worker_lost`), SQLAlchemy 2.0 async connection pooling, and 100% automated GitHub Actions CI/CD.
+* 🌐 **Open-Source Core Contributor:** Contributed to **[encode/starlette](https://github.com/encode/starlette)** (the foundational ASGI framework powering FastAPI) fixing RFC 9110 compliant CORS preflight header handling on empty responses.
+* 🚨 **Mobile & Real-Time Edge Systems:** Engineered **[PulseSync](https://github.com/prachizala/Pulsesync)** — an offline-first real-time emergency & field ops dispatch engine built with Flutter, FastAPI, WebSockets, local SQLite persistence, and Redis geospatial radius indexing.
+* 🧘 **Native Android & On-Device NLP:** Developed **[Mental Health Tracker](https://github.com/prachizala/mental-health-tracker-android)** — an offline-first privacy-focused mindfulness suite featuring a pure-Java on-device Cognitive Distortion (CBT) and sentiment analysis engine with automated CI/CD and JUnit testing.
+* 🧠 **GenAI & Graph Reasoning:** Designed **[Enterprise Knowledge Copilot](https://github.com/prachizala/enterprise-knowledge-copilot)** — Knowledge Graph RAG combining Neo4j multi-hop relationship traversals with PostgreSQL (`pgvector`) dense embeddings and Reciprocal Rank Fusion (RRF).
+* 📊 **Data Analytics & Applied ML:** Proven track record in predictive analytics and data storytelling with **Pandas, NumPy, XGBoost, and Streamlit**, including workforce intelligence modeling across 3,550+ shifts ([attendance-data-analytics](https://github.com/prachizala/attendance-data-analytics)).
+* 👥 **Hackathon Leadership Track Record (6× Team Leader):**
+  * 🥈 **Smart India Hackathon (SIH 2026):** Team Leader of 6-member squad (Team CyberForge) to **2nd Place** (58/60) in internal college hackathon.
+  * ⚡ **HACKCULT '26 (IIT Gandhinagar × NxtWave):** Team Leader of **Team Believers** • built [Dharohar 4D](https://github.com/prachizala/dharohar-4d) (3D Heritage Digital Twin platform).
+  * 🏆 **Hackbriven Hackathon (Ahmedabad):** Team Leader at premier National-Level Hackathon • built [Qoneqt](https://github.com/prachizala/Qoneqt-ContentOS) (ContentOS workflow engine).
+  * 🎯 **Silver Oak University (SOU) Mini Hackathon:** Team Leader • built [MathSprint](https://github.com/prachizala/MATHSPRINT) (real-time multiplayer classroom speed-math battle arena).
+  * 🌐 **VORTEX 2K26 Global AI Innovation Hackathon:** Team Leader (Team Eklavya).
+  * 🚀 **VOYAGEHACK 4.0:** Team Leader driving sprint architecture and technical execution.
+* 🎯 **Career Goal:** Open for internships and software engineering roles in **Backend Development, Distributed Systems, Data Engineering, or Full-Stack Architecture**.
 
 ---
 
@@ -112,10 +112,10 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
       <h3 align="center"><b>🧠 Enterprise Knowledge Copilot</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/GenAI-GraphRAG-blueviolet?style=flat-square" alt="GraphRAG"/>
-        <img src="https://img.shields.io/badge/Database-Neo4j_%2B_pgvector-blue?style=flat-square" alt="Databases"/>
-        <img src="https://img.shields.io/badge/Search-RRF_Hybrid_Rank-brightgreen?style=flat-square" alt="RRF Hybrid Rank"/>
+        <img src="https://img.shields.io/badge/Database-Neo4j_%2B_pgvector-blue?style=flat-square" alt="Database"/>
+        <img src="https://img.shields.io/badge/Search-RRF_Hybrid_Rank-brightgreen?style=flat-square" alt="RRF Hybrid"/>
       </p>
-      <p>Enterprise-grade Knowledge Graph RAG Copilot combining <b>PostgreSQL (pgvector)</b> dense embeddings with <b>Neo4j multi-hop graph reasoning</b> and reciprocal rank fusion (RRF) for zero-hallucination semantic search.</p>
+      <p>Enterprise-grade Knowledge Graph RAG Copilot combining <b>PostgreSQL (pgvector)</b> dense embeddings with <b>Neo4j multi-hop graph traversals</b> and Reciprocal Rank Fusion (RRF) for hallucination-free factual reasoning with local Ollama containers.</p>
       <p><b>Tech:</b> <code>Python</code>, <code>FastAPI</code>, <code>Neo4j</code>, <code>pgvector</code>, <code>Ollama</code>, <code>Next.js 14</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/enterprise-knowledge-copilot"><b>🔗 View Repository</b></a>
@@ -124,11 +124,11 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
     <td width="50%">
       <h3 align="center"><b>🤖 AI Smart Attendance & Geofenced Security</b></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/BCA_5th_Sem-Minor_Project-blue?style=flat-square" alt="BCA 5th Sem Minor Project"/>
+        <img src="https://img.shields.io/badge/BCA_5th_Sem-Minor_Project-blue?style=flat-square" alt="BCA 5th Sem"/>
         <img src="https://img.shields.io/badge/Tests-35_Passing-brightgreen?style=flat-square" alt="Tests Passing"/>
         <img src="https://img.shields.io/badge/Security-Anti--Proxy_Biometrics-orange?style=flat-square" alt="Anti Proxy"/>
       </p>
-      <p>Mobile and web attendance platform combining <b>Haversine GPS geofencing</b> with <b>facial feature verification</b> to prevent proxy check-ins. Includes admin dashboard, leave approvals, offline queue, and automated pytest CI workflow.</p>
+      <p>Mobile and web attendance platform combining <b>Haversine GPS geofencing (100m perimeter)</b> with <b>facial feature matching (OpenCV)</b> to prevent proxy check-ins. Features offline punch queue and 35 automated Pytest tests.</p>
       <p><b>Tech:</b> <code>Python</code>, <code>FastAPI</code>, <code>OpenCV</code>, <code>React Native (Expo)</code>, <code>SQLite</code>, <code>Pytest</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/AI_Smart_Attendance_System"><b>🔗 View Repository</b></a>
@@ -141,10 +141,10 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
       <p align="center">
         <img src="https://img.shields.io/badge/XGBoost-ROC--AUC_0.908-brightgreen?style=flat-square" alt="ROC-AUC 0.908"/>
         <img src="https://img.shields.io/badge/Streamlit-HR_Simulator-FF4B4B?style=flat-square" alt="Streamlit Simulator"/>
-        <img src="https://img.shields.io/badge/Workforce-3%2C550_Shifts-informational?style=flat-square" alt="3550 Shifts"/>
+        <img src="https://img.shields.io/badge/Workforce-3%2C550_Shifts-informational?style=flat-square" alt="Workforce 3550"/>
       </p>
-      <p>Workforce intelligence study on 3,550 shifts. Features a <b>predictive XGBoost classifier (ROC-AUC 0.908)</b> forecasting severe tardiness and an <b>interactive Streamlit HR simulator</b> proving a 15-minute flexible grace window reduces tardiness by <b>67.8% across departments</b>.</p>
-      <p><b>Tech:</b> <code>Python</code>, <code>XGBoost</code>, <code>Scikit-Learn</code>, <code>Streamlit</code>, <code>Pandas</code>, <code>Seaborn</code>, <code>Altair</code></p>
+      <p>Workforce intelligence study on 3,550 shifts. Features a <b>predictive XGBoost classifier (ROC-AUC 0.908)</b> forecasting severe late arrivals and an <b>interactive Streamlit HR simulator</b> demonstrating a 67.8% tardiness reduction via a 15-min grace window.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>XGBoost</code>, <code>Scikit-Learn</code>, <code>Streamlit</code>, <code>Pandas</code>, <code>Seaborn</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/attendance-data-analytics"><b>👉 View Repository</b></a>
       </p>
@@ -183,7 +183,7 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
         <img src="https://img.shields.io/badge/WebGL-Three.js_%2B_React_3D-blue?style=flat-square" alt="WebGL 3D"/>
         <img src="https://img.shields.io/badge/AI-Multilingual_Curator-brightgreen?style=flat-square" alt="AI Curator"/>
       </p>
-      <p>Interactive 3D digital twin platform for Indian historical monuments built during HACKCULT '26 (IIT Gandhinagar &times; NxtWave). Features real-time WebGL rendering, architectural time-scrubbing, multilingual AI audio guides, and virtual artifact restoration.</p>
+      <p>Interactive 3D digital twin platform for Indian historical monuments built during HACKCULT '26 (IIT Gandhinagar × NxtWave). Features real-time WebGL rendering, architectural time-scrubbing, multilingual AI audio guides, and virtual artifact restoration.</p>
       <p><b>Tech:</b> <code>React</code>, <code>Three.js</code>, <code>TypeScript</code>, <code>FastAPI</code>, <code>TailwindCSS</code>, <code>Docker</code></p>
       <p align="center">
         <a href="https://github.com/prachizala/dharohar-4d"><b>🔗 View Repository</b></a>
@@ -194,7 +194,17 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🐍 GitHub Contributions & Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prachizala/prachizala/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prachizala/prachizala/output/github-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/prachizala/prachizala/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prachizala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="165" alt="Prachi's GitHub Stats" />
