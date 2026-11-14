@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3B47D9&center=true&vCenter=true&width=720&lines=Hi+there!+👋+I'm+Prachi+Zala;Python+Developer+%7C+AI+%26+Data+Analytics;Building+Intelligent%2C+Data-Driven+Systems;Open+to+Internships+%26+Software+Roles+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3B47D9&center=true&vCenter=true&width=720&lines=Hi+there!+👋+I'm+Prachi+Zala;Python+Developer+%7C+AI+%26+Backend+Engineer;Building+Practical%2C+Data-Driven+Software;Open+to+Internships+%26+Software+Roles+🚀" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🎓 BCA Student (Focus: Python, AI & Data Analytics)</strong> • <strong>⚡ Hackathon Enthusiast</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🎓 BCA Student (Focus: Python, AI & Backend Systems)</strong> • <strong>⚡ Hackathon Enthusiast</strong>
   </p>
 
   <!-- Badges -->
@@ -23,56 +23,43 @@
 
 ### 👩‍💻 About Me
 
-I am a Bachelor of Computer Applications (BCA) student from Ahmedabad, Gujarat, passionate about **Python, Applied Artificial Intelligence, and Data Analytics**. I specialize in engineering practical, end-to-end software solutions—from computer vision pipelines and mathematical geofencing models to interactive analytics dashboards and real-time mobile platforms.
+I am a Bachelor of Computer Applications (BCA) student from Ahmedabad, Gujarat, focused on **Python backend systems, applied AI, and data analytics**. I specialize in building practical, end-to-end applications with clean architectures, verifiable logic, and strong guardrails—from computer vision biometrics and grounded retrieval systems to encrypted personal tracking and interval scheduling engines.
 
-- 🐍 **Primary Focus:** Python backend development, predictive machine learning pipelines, and data storytelling.
-- 💡 **Philosophy:** Building software that solves real-world operational problems with clean architecture, verifiable math, and zero fluff.
-- 🎯 **Current Goal:** 90-day technical sprint building production-grade repositories, competing in hackathons, and preparing for engineering roles.
+- 🐍 **Primary Focus:** Python (FastAPI), REST APIs, Machine Learning pipelines, and secure data handling.
+- 💡 **Philosophy:** Writing clean, testable, beginner-readable code that solves real problems with verifiable math and zero fluff.
+- 🎯 **Current Focus:** Shipping robust full-stack applications with automated testing, CI/CD, and production readiness.
 
 ---
 
-### 🛠️ Technical Skills & Arsenal
+### 🛠️ Technical Skills
 
-| Category | Technologies & Tools |
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, Java, TypeScript, JavaScript, SQL (SQLite, PostgreSQL), HTML5/CSS3 |
-| **AI & Machine Learning** | OpenCV, Scikit-Learn, Pandas, NumPy, VADER / NLP, Feature Engineering |
-| **Data Analytics & Viz** | Streamlit, Plotly, Matplotlib, Seaborn, Exploratory Data Analysis (EDA) |
-| **Web & Mobile** | Streamlit, FastAPI, Node.js / Express, React Native (Expo), Native Android (Java) |
-| **Databases & Cloud** | SQLite, PostgreSQL, Firebase (Firestore & Realtime DB), Git / GitHub Actions, Docker |
+| **Languages** | Python, SQL (SQLite, PostgreSQL), JavaScript, HTML5/CSS3, Java |
+| **Backend & APIs** | FastAPI, Pydantic v2, RESTful API Design, Starlette, Uvicorn |
+| **AI, ML & NLP** | OpenCV, Scikit-Learn, Pandas, NumPy, Vector Search / Cosine Similarity, PyMuPDF |
+| **Security & Cryptography** | Fernet (AES-256-CBC + HMAC), SHA-256 Key Derivation, Input Sanitization |
+| **Testing & Tools** | Pytest, TestClient, Git & GitHub Actions (CI/CD), Postman |
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 1. [AI Smart Attendance & Workforce Management System](https://github.com/prachizala/AI_Smart_Attendance_System)
-> **Tech Stack:** `Python` • `OpenCV` • `Streamlit` • `SQLite` • `Haversine Geofencing`  
-> **Key Result:** Eliminates proxy buddy-punching and timesheet tampering through a strict dual-factor pipeline combining 100m geodesic boundary checks and 64D facial feature matching with one-click CSV report exports.
+#### 1. [SmartCampus AI — Campus Biometrics & Student Risk Early Warning](https://github.com/prachizala/smartcampus-ai)
+> **Stack:** `FastAPI` • `OpenCV` • `Scikit-Learn` • `SQLite` • `HTML5/CSS3`  
+> **Key Result:** Integrates 128-d spatial facial feature matching ($D_{cos} \ge 0.70$) with a multi-factor academic risk scoring model (attendance 45%, midterm 25%, assignments 15%, backlogs 15%) to identify at-risk students before finals, complete with live CSV reporting.
 
-#### 2. [MATHSPRINT — Real-Time Math Battle Arena](https://github.com/prachizala/MATHSPRINT)
-> **Tech Stack:** `TypeScript` • `React Native (Expo)` • `Node.js / Express` • `Firebase`  
-> **Key Result:** Synchronizes 2-minute competitive classroom duels with server-authoritative anti-cheat clocks, zero-client answer exposure, and granular misconception analytics for teachers.
+#### 2. [StudyBuddy RAG — Grounded Document QA & Study Suite](https://github.com/prachizala/studybuddy-rag)
+> **Stack:** `FastAPI` • `PyMuPDF` • `Cosine Similarity Engine` • `SQLite` • `HTML5/CSS3`  
+> **Key Result:** Extracts PDF content via binary stream indexing with 300-word sliding windows, enforces a 100% strict refusal guardrail for ungrounded queries, and generates 5-question multiple choice quizzes and structured summaries.
 
-#### 3. [MindTracker — Android Wellness Companion](https://github.com/prachizala/mental-health-tracker-android)
-> **Tech Stack:** `Java` • `Android SDK (API 24-34)` • `SQLite` • `Material Design` • `CI/CD`  
-> **Key Result:** Delivers a 100% private, on-device wellness suite with 5-level mood logging, gratitude reflection journaling, and an animated 4-7-8 deep breathing relaxation pacer with automated unit tests.
+#### 3. [MindTrack — Encrypted Mental Health & Journaling Companion](https://github.com/prachizala/mindtrack)
+> **Stack:** `FastAPI` • `Cryptography (AES-256 Fernet)` • `Regex Sentinel` • `SQLite` • `HTML5/CSS3`  
+> **Key Result:** Guarantees zero plain-text storage of sensitive journal entries via AES-256-CBC field-level encryption with SHA-256 fallback, combined with an automated regex crisis sentinel connecting directly to 24/7 national helplines (Tele-MANAS, Vandrevala).
 
-#### 4. [Student Performance Predictor](https://github.com/prachizala)
-> **Tech Stack:** `Python` • `Scikit-Learn` • `Pandas` • `Streamlit`  
-> **Key Result:** Evaluates multi-factor academic predictors (study hours, attendance, historical grades) with regression modeling ($R^2$, RMSE), feature importance insights, and what-if simulation controls.
-
-#### 5. [Personal Engineering Portfolio](https://github.com/prachizala/prachi-portfolio)
-> **Tech Stack:** `Semantic HTML5` • `Modern CSS3` • `Vanilla JavaScript` • `GitHub Pages`  
-> **Key Result:** Zero-framework, sub-second First Contentful Paint (FCP) responsive portfolio with automatic dark mode support and automated Python DOM/a11y validation tests.
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachizala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prachi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachizala&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+#### 4. [BizDesk — Appointment Scheduling & Vector PDF Invoicing ERP](https://github.com/prachizala/bizdesk)
+> **Stack:** `FastAPI` • `Pydantic v2` • `PyMuPDF` • `SQLite` • `HTML5/CSS3`  
+> **Key Result:** Eliminates double-booking through deterministic non-overlap interval math `(start_a < end_b) & (end_a > start_b)`, paired with server-side vector PDF invoice rendering and real-time revenue analytics.
 
 ---
 
