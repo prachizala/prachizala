@@ -1,10 +1,11 @@
 # Profile Package — Prachi Zala
 
-This document compiles the complete profile package across the 4 production repositories:
-1. `smartcampus-ai`
-2. `studybuddy-rag`
-3. `mindtrack`
-4. `bizdesk`
+This document compiles the complete technical portfolio package across my verified software projects:
+1. `projectpilot` (Flagship Full-Stack SaaS)
+2. `smartcampus-ai`
+3. `studybuddy-rag`
+4. `mindtrack`
+5. `bizdesk`
 
 ---
 
@@ -14,11 +15,11 @@ This document compiles the complete profile package across the 4 production repo
 <div align="center">
 
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3B47D9&center=true&vCenter=true&width=720&lines=Hi+there!+👋+I'm+Prachi+Zala;Python+Developer+%7C+AI+%26+Backend+Engineer;Building+Practical%2C+Data-Driven+Software;Open+to+Internships+%26+Software+Roles+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3B47D9&center=true&vCenter=true&width=720&lines=Hi+there!+👋+I'm+Prachi+Zala;Full-Stack+Developer+%7C+FastAPI+%26+React+TypeScript;Building+Reliable%2C+Data-Driven+SaaS+%26+Applied+AI;Open+to+Engineering+Roles+%26+Internships+🚀" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🎓 BCA Student (Focus: Python, AI & Backend Systems)</strong> • <strong>⚡ Hackathon Enthusiast</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🎓 BCA Student (Focus: Backend Systems, Applied AI & Full-Stack Web)</strong> • <strong>⚡ Hackathon Team Leader</strong>
   </p>
 
   <p align="center">
@@ -34,11 +35,12 @@ This document compiles the complete profile package across the 4 production repo
 
 ### 👩‍💻 About Me
 
-I am a Bachelor of Computer Applications (BCA) student from Ahmedabad, Gujarat, focused on **Python backend systems, applied AI, and data analytics**. I specialize in building practical, end-to-end applications with clean architectures, verifiable logic, and strong guardrails—from computer vision biometrics and grounded retrieval systems to encrypted personal tracking and interval scheduling engines.
+I am a Bachelor of Computer Applications (BCA) student from Ahmedabad, Gujarat, focused on **modern full-stack web applications, Python backend systems, and applied machine learning**. I build practical, end-to-end products featuring clean multi-tier architectures, strict data boundaries, and automated testing—ranging from multi-tenant SaaS platforms with interactive Kanban boards and vector PDF rendering to biometric computer vision and encrypted personal data systems.
 
-- 🐍 **Primary Focus:** Python (FastAPI), REST APIs, Machine Learning pipelines, and secure data handling.
-- 💡 **Philosophy:** Writing clean, testable, beginner-readable code that solves real problems with verifiable math and zero fluff.
-- 🎯 **Current Focus:** Shipping robust full-stack applications with automated testing, CI/CD, and production readiness.
+- 🐍 **Backend & APIs:** Python (FastAPI, SQLAlchemy 2.0, Pydantic v2), REST APIs, JWT authentication, and relational modeling (PostgreSQL / SQLite).
+- ⚛️ **Frontend & UI:** React 18, TypeScript, Tailwind CSS, TanStack React Query, and Recharts.
+- 💡 **Engineering Principles:** Writing clean, testable, beginner-readable code with strict validation, zero-trust tenancy isolation, and automated CI/CD pipelines.
+- 🎯 **Current Focus:** Shipping robust, containerized full-stack web applications with verified test suites.
 
 ---
 
@@ -46,31 +48,32 @@ I am a Bachelor of Computer Applications (BCA) student from Ahmedabad, Gujarat, 
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, SQL (SQLite, PostgreSQL), JavaScript, HTML5/CSS3, Java |
-| **Backend & APIs** | FastAPI, Pydantic v2, RESTful API Design, Starlette, Uvicorn |
-| **AI, ML & NLP** | OpenCV, Scikit-Learn, Pandas, NumPy, Vector Search / Cosine Similarity, PyMuPDF |
-| **Security & Cryptography** | Fernet (AES-256-CBC + HMAC), SHA-256 Key Derivation, Input Sanitization |
-| **Testing & Tools** | Pytest, TestClient, Git & GitHub Actions (CI/CD), Postman |
+| **Languages** | Python, TypeScript, JavaScript, SQL (PostgreSQL, SQLite), HTML5, CSS3, Java |
+| **Backend & APIs** | FastAPI, SQLAlchemy 2.0, Pydantic v2, RESTful API Design, Starlette, Uvicorn, Alembic |
+| **Frontend & UI** | React 18, TypeScript, Tailwind CSS, Vite, TanStack React Query, Recharts, Lucide React |
+| **Data & Applied AI** | OpenCV, Scikit-Learn, Pandas, NumPy, Vector Cosine Search, PyMuPDF |
+| **Security & Auth** | Argon2id, Dual-Token JWT (Access + Refresh), RBAC, AES-256 (Fernet), Input Sanitization |
+| **DevOps & Testing** | Docker, Docker Compose, GitHub Actions (CI/CD), Pytest, Vitest, Nginx, Postman, Git |
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 1. [SmartCampus AI — Campus Biometrics & Student Risk Early Warning](https://github.com/prachizala/smartcampus-ai)
+#### 1. [ProjectPilot — Agency & Freelancer Project Management SaaS](https://github.com/prachizala/projectpilot)
+> **Stack:** `FastAPI` • `React (TypeScript)` • `Tailwind CSS` • `SQLAlchemy` • `Docker Compose` • `PyMuPDF`  
+> **Key Result:** A full-stack SaaS featuring an interactive drag-and-drop Kanban board with contiguous integer reordering, AI proposal synthesis with 1-click project conversion, sub-15ms vector PDF invoice streaming, and role-based client portal isolation. Containerized with multi-stage Docker and verified with 15/15 automated tests.
+
+#### 2. [SmartCampus AI — Campus Biometrics & Student Risk Early Warning](https://github.com/prachizala/smartcampus-ai)
 > **Stack:** `FastAPI` • `OpenCV` • `Scikit-Learn` • `SQLite` • `HTML5/CSS3`  
 > **Key Result:** Integrates 128-d spatial facial feature matching ($D_{cos} \ge 0.70$) with a multi-factor academic risk scoring model (attendance 45%, midterm 25%, assignments 15%, backlogs 15%) to identify at-risk students before finals, complete with live CSV reporting.
 
-#### 2. [StudyBuddy RAG — Grounded Document QA & Study Suite](https://github.com/prachizala/studybuddy-rag)
+#### 3. [StudyBuddy RAG — Grounded Document QA & Study Suite](https://github.com/prachizala/studybuddy-rag)
 > **Stack:** `FastAPI` • `PyMuPDF` • `Cosine Similarity Engine` • `SQLite` • `HTML5/CSS3`  
 > **Key Result:** Extracts PDF content via binary stream indexing with 300-word sliding windows, enforces a 100% strict refusal guardrail for ungrounded queries, and generates 5-question multiple choice quizzes and structured summaries.
 
-#### 3. [MindTrack — Encrypted Mental Health & Journaling Companion](https://github.com/prachizala/mindtrack)
+#### 4. [MindTrack — Encrypted Mental Health & Journaling Companion](https://github.com/prachizala/mindtrack)
 > **Stack:** `FastAPI` • `Cryptography (AES-256 Fernet)` • `Regex Sentinel` • `SQLite` • `HTML5/CSS3`  
 > **Key Result:** Guarantees zero plain-text storage of sensitive journal entries via AES-256-CBC field-level encryption with SHA-256 fallback, combined with an automated regex crisis sentinel connecting directly to 24/7 national helplines (Tele-MANAS, Vandrevala).
-
-#### 4. [BizDesk — Appointment Scheduling & Vector PDF Invoicing ERP](https://github.com/prachizala/bizdesk)
-> **Stack:** `FastAPI` • `Pydantic v2` • `PyMuPDF` • `SQLite` • `HTML5/CSS3`  
-> **Key Result:** Eliminates double-booking through deterministic non-overlap interval math `(start_a < end_b) & (end_a > start_b)`, paired with server-side vector PDF invoice rendering and real-time revenue analytics.
 
 ---
 
@@ -87,6 +90,9 @@ I am a Bachelor of Computer Applications (BCA) student from Ahmedabad, Gujarat, 
 ## 2. Repo Descriptions, Topics & Pinned List
 
 ### A. Descriptions and Topics
+- **`projectpilot`**
+  - *Description:* Client, project, and invoice management SaaS for freelancers and boutique agencies. Features drag-and-drop Kanban with contiguous integer reordering, AI proposal-to-project converter, sub-15ms PyMuPDF vector PDF invoices, and client portal.
+  - *Topics:* `fastapi`, `react`, `typescript`, `tailwindcss`, `docker`, `kanban`, `invoicing`, `saas`, `sqlalchemy`, `jwt`, `recharts`
 - **`smartcampus-ai`**
   - *Description:* Campus operations platform featuring OpenCV facial recognition attendance, weighted multi-factor academic risk prediction (attendance, midterms, backlogs), and live CSV exports. Built with FastAPI and SQLite.
   - *Topics:* `fastapi`, `python`, `opencv`, `facial-recognition`, `machine-learning`, `academic-warning-system`, `sqlite`, `rest-api`
@@ -94,25 +100,48 @@ I am a Bachelor of Computer Applications (BCA) student from Ahmedabad, Gujarat, 
   - *Description:* Grounded document QA and study platform with PyMuPDF binary indexing, 300-word sliding window chunking, cosine similarity retrieval, strict zero-hallucination refusal guardrails, and automated MCQ generation.
   - *Topics:* `rag`, `retrieval-augmented-generation`, `fastapi`, `python`, `pymupdf`, `vector-search`, `nlp`, `quiz-generator`
 - **`mindtrack`**
-  - *Description:* Privacy-first mental health companion with AES-256 field-level encryption, deterministic regex crisis sentinel with immediate helpline escalation (Tele-MANAS), sentiment tracking, and weekly AI reflections.
+  - *Description:* Privacy-first mental health companion with AES-256 field-level encryption, deterministic regex crisis sentinel with immediate helpline escalation (Tele-MANAS), sentiment tracking, and weekly reflections.
   - *Topics:* `fastapi`, `python`, `cryptography`, `aes-256`, `fernet`, `mental-health`, `crisis-prevention`, `data-privacy`
 - **`bizdesk`**
   - *Description:* Lightweight business operations engine featuring double-booking collision prevention via non-overlap interval math, server-side vector PDF invoice generation with PyMuPDF, customer CRM, and KPI dashboard.
   - *Topics:* `fastapi`, `python`, `erp`, `scheduling-algorithm`, `invoice-generator`, `pymupdf`, `pydantic-v2`, `sqlite`
 
 ### B. List of 6 Repos to Pin
-1. `smartcampus-ai`
-2. `studybuddy-rag`
-3. `mindtrack`
-4. `bizdesk`
-5. `AI_Smart_Attendance_System`
-6. `prachi-portfolio`
+1. `projectpilot`
+2. `smartcampus-ai`
+3. `studybuddy-rag`
+4. `mindtrack`
+5. `prachi-portfolio`
+6. `bizdesk`
 
 ---
 
 ## 3. LinkedIn Posts (One Per Project)
 
-### Post 1: SmartCampus AI
+### Post 1: ProjectPilot
+```text
+Freelancers and boutique agencies frequently juggle their entire business across scattered tools: project scopes in WhatsApp chats, deadlines in Excel sheets, and handwritten invoice templates in Word. This fragmentation leads to missed deadlines and delayed payments.
+
+To solve this, I designed and built ProjectPilot: an all-in-one client, project, and invoice management SaaS engineered from the ground up with modern full-stack technologies.
+
+Key highlights:
+• Interactive Drag-and-Drop Kanban: Implemented an optimistic UI task board with contiguous zero-indexed sequential integer rebalancing (0, 1, 2, 3...) in the backend, completely eliminating floating-point rounding bugs common in midpoint indexing.
+• Smart Proposal-to-Project Converter: Parses raw client requirement briefs into 3 phased milestones (Discovery, Implementation, QA) with budget allocations, and converts them atomically into active projects with pre-populated Kanban tasks.
+• Sub-15ms Vector PDF Invoices: Renders print-ready PDF invoices dynamically in memory using PyMuPDF vector drawing primitives, avoiding the heavy memory footprint and cold-start latency of headless browsers like Puppeteer.
+• Zero-Trust Tenancy & Client Portal: Strict query-level tenant isolation (owner_id == current_user.id) with role-based access for external clients to view only their assigned company records.
+
+Tech Stack: React 18, TypeScript, Tailwind CSS, TanStack React Query, Recharts, Python, FastAPI, SQLAlchemy 2.0, Argon2id, Docker Compose.
+
+What I learned:
+Handling state synchronization between optimistic frontend UI updates and transactional database reordering. Normalizing task ranks in a single atomic database transaction keeps the board perfectly in sync across multiple browser sessions.
+
+Explore the repository, documentation, and Docker quickstart:
+https://github.com/prachizala/projectpilot
+
+#FullStack #React #TypeScript #FastAPI #Python #Docker #SaaS #WebDevelopment
+```
+
+### Post 2: SmartCampus AI
 ```text
 Manual attendance taking in university lecture halls wastes 10 to 15 minutes every single session, while academic intervention teams often identify struggling students too late—usually after semester final results are declared.
 
@@ -134,7 +163,7 @@ https://github.com/prachizala/smartcampus-ai
 #Python #FastAPI #OpenCV #MachineLearning #EdTech #SoftwareEngineering
 ```
 
-### Post 2: StudyBuddy RAG
+### Post 3: StudyBuddy RAG
 ```text
 When students study dense academic textbooks or lecture notes using standard generative chatbots, subtle hallucinations and out-of-context answers can quietly mislead exam preparation.
 
@@ -157,7 +186,7 @@ https://github.com/prachizala/studybuddy-rag
 #RAG #InformationRetrieval #FastAPI #Python #EdTech #NLP
 ```
 
-### Post 3: MindTrack
+### Post 4: MindTrack
 ```text
 Digital wellness and journaling applications handle some of the most sensitive personal data a user can write. Storing journal entries in plain text in an application database exposes users to severe privacy risks.
 
@@ -179,28 +208,6 @@ https://github.com/prachizala/mindtrack
 #CyberSecurity #DataPrivacy #Python #FastAPI #MentalHealth #Encryption
 ```
 
-### Post 4: BizDesk
-```text
-For freelance consultants and small service agencies, scheduling conflicts and manual invoicing remain continuous operational pain points. Many off-the-shelf tools are either bloated or fail to strictly prevent overlapping bookings.
-
-To solve this cleanly, I engineered BizDesk: a business operations ERP for appointment scheduling, client management, and instant invoice generation.
-
-Key highlights:
-• Collision Prevention: Implemented non-overlap interval math (A_start < B_end) & (A_end > B_start) in SQL and FastAPI service logic. Any attempted appointment that collides with an existing slot is blocked with an explicit conflict message.
-• Vector PDF Invoicing: Generates clean, production-grade PDF invoices on the server using PyMuPDF vector drawing primitives, calculating line totals, tax rates, and payment terms on the fly.
-• CRM & Revenue Analytics: Real-time dashboard calculating gross billings, outstanding balances, and monthly appointment volume.
-
-Tech Stack: Python, FastAPI, Pydantic v2, PyMuPDF, SQLite, Pytest.
-
-What I learned:
-Strict API boundary validation. A client sending an appointment payload where start_time >= end_time previously triggered an unhandled exception inside the database query. Adding a Pydantic @field_validator caught chronological inversions at the schema boundary, returning an immediate, clean HTTP 422 before touching the database.
-
-Full source code and test setup:
-https://github.com/prachizala/bizdesk
-
-#Python #FastAPI #BackendDevelopment #Pydantic #SystemDesign #SoftwareEngineering
-```
-
 ---
 
 ## 4. One-Page Resume (Technical Focus)
@@ -213,28 +220,37 @@ https://github.com/prachizala/bizdesk
 ---
 
 ### EDUCATION
-**Bachelor of Computer Applications (BCA)** | [PLACEHOLDER: University Name], Ahmedabad, Gujarat  
-*Expected Graduation: 2026* | CGPA: [PLACEHOLDER: CGPA / Percentage]  
-*Relevant Coursework:* Data Structures & Algorithms, Database Management Systems (DBMS), Object-Oriented Programming (Python/Java), Web Development, Operating Systems.
+**Bachelor of Computer Applications (BCA)** | Shanti Business School, Ahmedabad, Gujarat  
+*Expected Graduation: 2026* | CGPA: 9.12  
+*Relevant Coursework:* Data Structures & Algorithms, Database Management Systems (DBMS), Object-Oriented Programming (Python/Java), Web Engineering, Software Engineering.
 
 ---
 
 ### TECHNICAL SKILLS
-- **Programming Languages:** Python, SQL (SQLite, PostgreSQL), JavaScript, Java, HTML5, CSS3
-- **Backend & APIs:** FastAPI, Pydantic v2, RESTful Architecture, Uvicorn, Starlette
+- **Programming Languages:** Python, TypeScript, JavaScript, SQL (PostgreSQL, SQLite), HTML5, CSS3, Java
+- **Backend & APIs:** FastAPI, SQLAlchemy 2.0, Pydantic v2, RESTful Architecture, Uvicorn, Starlette, Alembic
+- **Frontend & UI:** React 18, TypeScript, Tailwind CSS, Vite, TanStack React Query, Recharts, Responsive Design
 - **Data & Applied AI:** OpenCV, Scikit-Learn, Pandas, NumPy, Vector Cosine Search, PyMuPDF
-- **Security & Reliability:** AES-256 / Fernet Encryption, SHA-256 Key Derivation, Input Validation
-- **Tools & DevOps:** Git, GitHub Actions (CI/CD), Pytest, TestClient, Postman, Linux/Bash basics
+- **Security & Reliability:** Argon2id, Dual-Token JWT, RBAC, AES-256 (Fernet) Encryption, Tenancy Isolation
+- **DevOps & Tools:** Docker, Docker Compose, Git, GitHub Actions (CI/CD), Pytest, Vitest, Nginx, Postman
 
 ---
 
 ### FEATURED TECHNICAL PROJECTS
 
+**ProjectPilot — Full-Stack Agency & Freelancer Management SaaS** | *React, TypeScript, FastAPI, SQLAlchemy, Docker*  
+*(GitHub: github.com/prachizala/projectpilot)*
+- Built an end-to-end multi-tenant project management SaaS with role-based access control (Owner, Member, Client) and Argon2id/JWT security.
+- Developed an interactive drag-and-drop Kanban task board using contiguous sequential integer normalization to prevent floating-point rounding errors.
+- Created an AI proposal-to-project engine that synthesizes phased milestone scopes and atomically converts them into active projects and Kanban tasks.
+- Engineered sub-15ms vector PDF invoice generation using PyMuPDF and built an executive financial dashboard using Recharts and aggregate SQL queries.
+- Containerized the full stack with multi-stage Docker builds and automated CI pipelines with 15/15 passing tests.
+
 **SmartCampus AI — Campus Biometrics & Early Warning System** | *Python, FastAPI, OpenCV, SQLite*  
 *(GitHub: github.com/prachizala/smartcampus-ai)*
 - Built an automated attendance system using 128-dimensional facial spatial feature extraction with cosine similarity matching (D_cos >= 0.70).
 - Developed an early academic warning model combining attendance deficiency (45%), midterm scores (25%), assignments (15%), and backlogs (15%) to classify student dropout risk into Low, Medium, and High tiers.
-- Built a streaming CSV data export endpoint for faculty administration and verified API stability with 5/5 automated test suites.
+- Built a streaming CSV data export endpoint for faculty administration and verified API stability with automated test suites.
 
 **StudyBuddy RAG — Grounded Document QA & Study Platform** | *Python, FastAPI, PyMuPDF, SQLite*  
 *(GitHub: github.com/prachizala/studybuddy-rag)*
@@ -249,35 +265,40 @@ https://github.com/prachizala/bizdesk
 - Built a deterministic crisis detection sentinel using regex pattern matching that flags distress keywords and immediately surfaces 24/7 national emergency helplines (Tele-MANAS 14416).
 - Programmed a lexicon-based sentiment analysis tracker calculating emotional velocity across 7-day journaling windows.
 
-**BizDesk — Appointment Scheduling & Vector PDF Invoicing ERP** | *Python, FastAPI, Pydantic v2, PyMuPDF*  
-*(GitHub: github.com/prachizala/bizdesk)*
-- Engineered an appointment booking engine with deterministic collision prevention using interval math (start_a < end_b) & (end_a > start_b).
-- Developed a server-side vector PDF invoice generator using PyMuPDF drawing primitives with explicit resource reclamation (try...finally: doc.close()).
-- Designed a business health dashboard tracking gross revenue, pending invoices, and monthly appointment volume with full Pydantic v2 data validation schemas.
-
 ---
 
-### HONORS & CERTIFICATIONS
-- **Hackathon Finalist / Team Lead:** [PLACEHOLDER: Hackathon Name, e.g., HACKCULT '26 or College Hackathon]
-- **Certification:** [PLACEHOLDER: e.g., Python for Data Science / Full Stack Python — Provider Name]
+### HONORS & LEADERSHIP
+- **Hackathon Team Leader (6×):** Led college and regional hackathon teams including Smart India Hackathon internal (2nd Place), HACKCULT '26, and Hackbriven.
+- **Open-Source Contributions:** Verified pull requests and bug fixes in Python/FastAPI ecosystem libraries.
 ```
 
 ---
 
 ## 5. Two-Minute Interview Pitches (One Per Project)
 
-### Pitch 1: SmartCampus AI
+### Pitch 1: ProjectPilot
+> **"ProjectPilot is a full-stack client, project, and invoice management SaaS designed for freelancers and boutique agencies who lose hours juggling fragmented tools like WhatsApp, Excel, and Word templates.**
+>
+> **My Role:** I architected and implemented the entire system—from database schema and FastAPI REST APIs to the React TypeScript frontend, Kanban drag-and-drop board, vector PDF engine, and Docker containerization.
+>
+> **Architecture:** The backend is built with FastAPI and SQLAlchemy with strict tenant isolation (`owner_id == current_user.id`). On the frontend, React 18, TypeScript, Tailwind CSS, and TanStack React Query handle optimistic updates and state caching. For the Kanban board, I developed a contiguous integer rebalancing engine (`0, 1, 2, 3...`) that prevents floating-point rounding collisions. For billing, we use PyMuPDF to render vector PDFs directly in memory in under 15ms. We also built an AI proposal engine that parses raw client briefs into 3 balanced project milestones and converts them atomically into active projects with pre-populated Kanban tasks.
+>
+> **A Hard Bug I Fixed:** During database schema design, SQLAlchemy threw a circular foreign key error because a `User` (with role client) points to `Client.id`, while every `Client` points to `User.id` as its owner. I solved this by configuring SQLAlchemy's `ForeignKey(..., use_alter=True, name="fk_users_client_id")`, allowing tables to instantiate cleanly and resolving the constraint via an alter statement.
+>
+> **What I Would Improve:** I would integrate WebSockets for live collaborative multi-user Kanban card movements and add Stripe webhook integration for direct invoice payment collection."
+
+### Pitch 2: SmartCampus AI
 > **"SmartCampus AI is an enterprise operations platform for colleges designed to solve two core administrative problems: proxy attendance and late detection of academic failure.**
 >
 > **My Role:** I designed and implemented the full architecture—from the database models and computer vision matching pipeline to the FastAPI REST endpoints and the faculty frontend.
 >
 > **Architecture:** The application runs on FastAPI with SQLite. When an image is received from the webcam, OpenCV extracts a normalized 128-dimensional spatial feature vector. We calculate the cosine similarity against enrolled student embeddings; matches at or above 0.70 confidence mark the student present. On the academic side, we built a weighted heuristic penalty model: attendance carries 45% weight, midterms 25%, assignments 15%, and backlogs 15 points. This generates a composite score from 0 to 100 that categorizes students into Low, Medium, or High risk tiers before end-of-term exams.
 >
-> **A Hard Bug I Fixed:** During Day 8 triage, webcam scans failed whenever a student was pre-marked 'absent' by faculty—the endpoint raised an HTTP 400 stating 'Attendance already marked for today'. In reality, students arriving late should be updated to 'present'. I updated the attendance service to detect existing records and cleanly transition status from 'absent' to 'present' with updated timestamps and confidence metrics, verifying it with automated tests.
+> **A Hard Bug I Fixed:** During testing, webcam scans failed whenever a student was pre-marked 'absent' by faculty—the endpoint raised an HTTP 400 stating 'Attendance already marked for today'. In reality, students arriving late should be updated to 'present'. I updated the attendance service to detect existing records and cleanly transition status from 'absent' to 'present' with updated timestamps and confidence metrics, verifying it with automated tests.
 >
 > **What I Would Improve:** In production, I would upgrade the spatial block feature extractor to a deep metric model like FaceNet or InsightFace with an active anti-spoofing liveness check to prevent photo-on-screen replay attacks."
 
-### Pitch 2: StudyBuddy RAG
+### Pitch 3: StudyBuddy RAG
 > **"StudyBuddy RAG is an academic document question-answering system built specifically to eliminate hallucinations when students revise complex course materials.**
 >
 > **My Role:** I engineered the end-to-end document processing pipeline, vector retrieval logic, strict refusal guardrail, and quiz generator.
@@ -288,7 +309,7 @@ https://github.com/prachizala/bizdesk
 >
 > **What I Would Improve:** I would integrate dense semantic vector embeddings via a local embedding model (like `all-MiniLM-L6-v2`) backed by ChromaDB or FAISS to handle synonymy and paraphrasing better than character n-grams."
 
-### Pitch 3: MindTrack
+### Pitch 4: MindTrack
 > **"MindTrack is a privacy-first mental health journaling companion built on the premise that emotional and personal health data must never be readable in plain text on a database server.**
 >
 > **My Role:** I was responsible for the backend security architecture, cryptographic lifecycle, sentiment scoring algorithms, and the crisis intervention sentinel.
@@ -299,21 +320,12 @@ https://github.com/prachizala/bizdesk
 >
 > **What I Would Improve:** I would move the encryption boundary entirely to the client side using the Web Crypto API, so that decryption keys never touch the backend server, achieving zero-knowledge privacy."
 
-### Pitch 4: BizDesk
-> **"BizDesk is a focused business operations backend for service providers that automates appointment scheduling, client records, and vector PDF invoice generation.**
->
-> **My Role:** I designed the schema models, implemented the interval collision detection logic, built the PDF drawing engine, and created the financial metrics dashboard.
->
-> **Architecture:** The backend is built with FastAPI and SQLite, using Pydantic v2 schemas for strict boundary validation. The core scheduling engine evaluates time intervals mathematically: an appointment $[A_{start}, A_{end}]$ conflicts with an existing $[B_{start}, B_{end}]$ if and only if $(A_{start} < B_{end}) \land (A_{end} > B_{start})$. This prevents double-booking at the database query level. When an invoice is finalized, PyMuPDF builds a vector PDF dynamically in memory with line item calculations, taxes, and payment instructions.
->
-> **A Hard Bug I Fixed:** In early testing, passing a payload where `start_time >= end_time` bypassed endpoint checks and caused an unhandled database exception that returned an HTTP 500 error. I implemented a Pydantic `@field_validator('end_time')` that checks timestamps at the deserialization stage, rejecting chronologically invalid payloads with an immediate, clear HTTP 422 error.
->
-> **What I Would Improve:** I would add recurrence rules (i.e., RRULE support) for repeating weekly appointments and integrate asynchronous webhook workers to dispatch automated email and SMS appointment reminders."
-
 ---
 
 ## 6. Interview Questions and Answers per Project
-Dedicated files have been added to the root of each project repository:
+
+Dedicated files grounded in the actual codebase exist in the root of each project repository:
+- `projectpilot/INTERVIEW_QA.md`
 - `smartcampus-ai/INTERVIEW_QA.md`
 - `studybuddy-rag/INTERVIEW_QA.md`
 - `mindtrack/INTERVIEW_QA.md`
