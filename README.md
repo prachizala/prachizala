@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=720&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=720&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+Udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🚀 Full Stack Developer @ udaanworks</strong> • <strong>💻 Python, TypeScript, FastAPI & Next.js</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🚀 Full Stack Developer @ Udaanworks</strong> • <strong>💻 Python, TypeScript, FastAPI & Next.js</strong>
   </p>
 
   <!-- Social & Credential Badges -->
@@ -33,7 +33,7 @@
 
 ```yaml
 name: Prachi Zala
-current_role: Full Stack Developer @ udaanworks 🚀
+current_role: Full Stack Developer @ Udaanworks 🚀
 education: Bachelor of Computer Applications (BCA) @ Shanti Business School, Ahmedabad (CGPA: 9.12)
 role: Full Stack Developer | Distributed Backend & Modern Frontend Engineer
 focus_areas: [Distributed Backend, Modern Frontend, FastAPI, Next.js, Python, TypeScript, GraphRAG]
