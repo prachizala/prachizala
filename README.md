@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=720&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Software+Engineer+%40+Udaan+Works+%F0%9F%9A%80;Distributed+Systems+%26+Python+Engineer;Data+Analytics+%26+Intelligent+Systems;Open+Source+Contributor+%40+Starlette+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=720&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+udaan+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🚀 Software Engineer @ Udaan Works</strong> • <strong>💻 Python, Distributed Systems & Applied AI</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🚀 Full Stack Developer @ udaan</strong> • <strong>💻 Python, TypeScript, FastAPI & Next.js</strong>
   </p>
 
   <!-- Social & Credential Badges -->
@@ -33,14 +33,14 @@
 
 ```yaml
 name: Prachi Zala
-current_role: Software Engineer @ Udaan Works (udaanworks.com)
+current_role: Full Stack Developer @ udaan 🚀
 education: Bachelor of Computer Applications (BCA) @ Shanti Business School, Ahmedabad (CGPA: 9.12)
-role: Python & Distributed Systems Engineer | Full-Stack & Applied AI Developer
-focus_areas: [Distributed Task Engines, Fault-Tolerant Async Systems, GraphRAG, Data Analytics, Flutter]
-open_source: Contributor @ Starlette (FastAPI ASGI Core - RFC 9110 Compliance)
+role: Full Stack Developer | Distributed Backend & Modern Frontend Engineer
+focus_areas: [Distributed Backend, Modern Frontend, FastAPI, Next.js, Python, TypeScript, GraphRAG]
+open_source: Contributor @ Starlette (FastAPI Core - RFC 9110 Compliance)
 hackathons: 6x Team Leader (SIH Internal 🥈, HACKCULT '26, Hackbriven, VORTEX 2K26, SOU)
-core_stack: [Python 3.11, FastAPI, Celery, Redis, Docker Compose, Dart / Flutter, PostgreSQL, Pandas]
-current_learning: [Event-Driven Architecture, High-Concurrency Distributed Systems, Kubernetes]
+core_stack: [Python, TypeScript, FastAPI, Next.js 14, Celery, Redis, Docker Compose, PostgreSQL]
+current_learning: [High-Concurrency Distributed Systems, Event-Driven Architecture, Micro-Frontends]
 ```
 
 * ⚡ **Distributed Systems & Async Architecture:** Architected **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** — a production-grade asynchronous task execution engine engineered with Redis `SETNX` client-side enqueue idempotency, Celery worker crash recovery (`task_reject_on_worker_lost`), SQLAlchemy 2.0 async connection pooling, and 100% automated GitHub Actions CI/CD.
@@ -56,7 +56,7 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
   * 🎯 **Silver Oak University (SOU) Mini Hackathon:** Team Leader • built [MathSprint](https://github.com/prachizala/MATHSPRINT) (real-time multiplayer classroom speed-math battle arena).
   * 🌐 **VORTEX 2K26 Global AI Innovation Hackathon:** Team Leader (Team Eklavya).
   * 🚀 **VOYAGEHACK 4.0:** Team Leader driving sprint architecture and technical execution.
-* 🎯 **Professional Status:** Software Engineer at **[Udaan Works](https://udaanworks.com/)**, actively building scalable systems and contributing to production open-source architectures.
+* 🎯 **Professional Status:** Full Stack Developer at **[udaan](https://udaanworks.com/)**, actively engineering distributed backends, modern Next.js frontends, and open-source systems.
 
 ---
 
@@ -65,13 +65,13 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
 <table>
   <tr>
     <td width="100%">
-      <h3><b>🚀 Software Engineer</b> — <a href="https://udaanworks.com/"><b>Udaan Works</b></a></h3>
-      <p><b>Nov 2026 – Present • Ahmedabad, Gujarat, India • Full-Time Permanent Engineering Role</b></p>
-      <p>Engineering production-grade applications, scalable SaaS architectures, and intelligent software systems for high-growth startups and global enterprises.</p>
+      <h3><b>🚀 Full Stack Developer</b> — <a href="https://udaanworks.com/"><b>udaan</b></a></h3>
+      <p><b>Nov 2026 – Present • Ahmedabad, Gujarat, India • Permanent Role</b></p>
+      <p>Engineering distributed backend architectures and modern full-stack web platforms using <b>Python, TypeScript, FastAPI, and Next.js</b>.</p>
       <ul>
-        <li><b>Backend & Systems Architecture:</b> Designing robust RESTful services, asynchronous background job processors, and fault-tolerant APIs using Python, FastAPI, and modern databases.</li>
-        <li><b>Rapid Product Engineering:</b> Architecting end-to-end full-stack solutions, responsive web platforms, and automated workflow integrations with enterprise quality standards.</li>
-        <li><b>Intelligent Systems:</b> Developing data-driven features, vector-indexed retrieval, and applied AI workflows tailored to business logic.</li>
+        <li><b>Distributed Backend & Systems:</b> Architecting robust RESTful services, asynchronous background task pipelines, and resilient APIs with FastAPI, PostgreSQL, and Redis.</li>
+        <li><b>Modern Frontend Engineering:</b> Building responsive, performant user interfaces and design systems using Next.js 14, TypeScript, and modern component frameworks.</li>
+        <li><b>Full-Stack Integration:</b> Delivering end-to-end scalable SaaS features, high-velocity product delivery, and enterprise-grade reliability.</li>
       </ul>
     </td>
   </tr>
