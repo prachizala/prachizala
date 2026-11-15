@@ -10,7 +10,7 @@ This document explains the revisions made to the GitHub profile (`prachizala/pra
 |---|---|---|---|
 | **Headline & Roles** | "Full Stack & Python Developer, Team Lead @ HACKCULT '26" | "Python, Full Stack & Data Analytics Developer \| BCA Student" | Accurately communicates her academic profile, software engineering skills, and data analytics orientation. |
 | **Tech Stack Badges** | Listed `Dart` and `MySQL` prominently alongside `FastAPI` | Replaced with verified core stack: `Python`, `FastAPI`, `OpenCV`, `Pandas`, `NumPy`, `Seaborn`, `React Native (Expo)`, `Java (Android)`, `SQLite`, `Pytest`. | Aligns 100% with the real repositories and codebases. |
-| **Featured Projects** | Contained unverified `enterprise-knowledge-copilot` and `Qoneqt-ContentOS` fork | Replaced with top 4 verified original projects:<br>1. `AI_Smart_Attendance_System`<br>2. `attendance-data-analytics`<br>3. `MATHSPRINT`<br>4. `mental-health-tracker-android` | Eliminates risk of recruiters questioning repos that either do not exist or were upstream forks without personal code. |
+| **Featured Projects** | Contained unverified `enterprise-knowledge-graph-engine` and `Qoneqt-ContentOS` fork | Replaced with top 4 verified original projects:<br>1. `AI_Smart_Attendance_System`<br>2. `attendance-data-analytics`<br>3. `MATHSPRINT`<br>4. `mental-health-tracker-android` | Eliminates risk of recruiters questioning repos that either do not exist or were upstream forks without personal code. |
 
 ---
 
