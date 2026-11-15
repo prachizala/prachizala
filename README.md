@@ -317,5 +317,5 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
 </p>
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/prachizala">Prachi Zala</a> • Continuous Learning & Honest Engineering</sub>
+  <sub>Built by <a href="https://github.com/prachizala">Prachi Zala</a> • Continuous Learning & Honest Engineering</sub>
 </div>
