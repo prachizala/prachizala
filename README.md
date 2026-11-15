@@ -14,7 +14,7 @@
     <a href="https://github.com/prachizala"><img src="https://img.shields.io/badge/GitHub-PRO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PRO" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/prachi-zala-74a08b334/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="mailto:prachizala2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-    <a href="https://prachizala.github.io/prachi-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3B47D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://prachizala.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3B47D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   </p>
 
   <p align="center">
