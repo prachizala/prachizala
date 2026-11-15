@@ -212,6 +212,69 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
   </tr>
 </table>
 
+<br/>
+
+### 🐍 Applied Machine Learning & Data Analytics Systems
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><b>📊 Student Performance Predictor</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Model-OLS_Regression-blue?style=flat-square" alt="OLS Regression"/>
+        <img src="https://img.shields.io/badge/Streamlit-Interactive_UI-FF4B4B?style=flat-square" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/Unit_Tests-Passing-brightgreen?style=flat-square" alt="Tests"/>
+      </p>
+      <p>Educational performance modeling system predicting student exam scores with Ordinary Least Squares (OLS) regression, study factor sensitivity analysis, and real-time Streamlit simulation.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>Scikit-Learn</code>, <code>Streamlit</code>, <code>Pandas</code>, <code>NumPy</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/student-performance-predictor"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><b>🧠 MindPulse — Mood Tracker & Sentiment NLP</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NLP-Valence_Lexicons-blueviolet?style=flat-square" alt="NLP"/>
+        <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/Analytics-60--Day_Trends-success?style=flat-square" alt="Trends"/>
+      </p>
+      <p>Continuous sentiment analysis and mental wellness tracker evaluating reflections with negation inversion, intensifier scaling, and 60-day moving average emotional trajectories.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>NLP</code>, <code>Streamlit</code>, <code>Pandas</code>, <code>VADER-Normalized Math</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/mood-tracker-sentiment-analysis"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><b>📈 BizPulse — Sales & Expense Analytics</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Forecasting-3--Month_Linear-blue?style=flat-square" alt="Forecasting"/>
+        <img src="https://img.shields.io/badge/BI-Unit_Economics-informational?style=flat-square" alt="BI"/>
+        <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square" alt="Streamlit"/>
+      </p>
+      <p>Commercial financial intelligence platform tracking 24 months of multi-department expenses, operating burn rates, unit profit margins, and predictive linear revenue forecasting.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>Streamlit</code>, <code>Pandas</code>, <code>Linear Regression</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/sales-expense-analytics"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><b>🤖 MentorAI — Academic & Coding Assistant</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Architecture-Sliding--Window_Memory-purple?style=flat-square" alt="Memory"/>
+        <img src="https://img.shields.io/badge/Dual--Mode-Offline_%2B_Live_API-brightgreen?style=flat-square" alt="Dual-Mode"/>
+        <img src="https://img.shields.io/badge/Streamlit-Chat_UI-FF4B4B?style=flat-square" alt="Streamlit"/>
+      </p>
+      <p>Intelligent conversational tutor and programming assistant with multi-turn memory pruning, specialized mentor personas, and dual-mode execution (local offline engine or live cloud LLM API).</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>Streamlit</code>, <code>Prompt Engineering</code>, <code>LLM API</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/ai-chatbot-assistant"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🐍 GitHub Contributions & Activity
