@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=720&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Distributed+Systems+%26+Python+Engineer;Data+Analytics+%26+Intelligent+Systems;Open+Source+Contributor+%40+Starlette+%E2%9C%A8;Open+for+Internships+%26+High-Impact+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=720&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Software+Engineer+%40+Udaan+Works+%F0%9F%9A%80;Distributed+Systems+%26+Python+Engineer;Data+Analytics+%26+Intelligent+Systems;Open+Source+Contributor+%40+Starlette+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>💻 Python, Distributed Systems & Full-Stack Engineer</strong> • <strong>⚡ Team Lead @ HACKCULT '26</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🚀 Software Engineer @ Udaan Works</strong> • <strong>💻 Python, Distributed Systems & Applied AI</strong>
   </p>
 
   <!-- Social & Credential Badges -->
@@ -33,6 +33,7 @@
 
 ```yaml
 name: Prachi Zala
+current_role: Software Engineer @ Udaan Works (udaanworks.com)
 education: Bachelor of Computer Applications (BCA) @ Shanti Business School, Ahmedabad (CGPA: 9.12)
 role: Python & Distributed Systems Engineer | Full-Stack & Applied AI Developer
 focus_areas: [Distributed Task Engines, Fault-Tolerant Async Systems, GraphRAG, Data Analytics, Flutter]
@@ -55,7 +56,26 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
   * 🎯 **Silver Oak University (SOU) Mini Hackathon:** Team Leader • built [MathSprint](https://github.com/prachizala/MATHSPRINT) (real-time multiplayer classroom speed-math battle arena).
   * 🌐 **VORTEX 2K26 Global AI Innovation Hackathon:** Team Leader (Team Eklavya).
   * 🚀 **VOYAGEHACK 4.0:** Team Leader driving sprint architecture and technical execution.
-* 🎯 **Career Goal:** Open for internships and software engineering roles in **Backend Development, Distributed Systems, Data Engineering, or Full-Stack Architecture**.
+* 🎯 **Professional Status:** Software Engineer at **[Udaan Works](https://udaanworks.com/)**, actively building scalable systems and contributing to production open-source architectures.
+
+---
+
+### 💼 Industry Experience
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3><b>🚀 Software Engineer</b> — <a href="https://udaanworks.com/"><b>Udaan Works</b></a></h3>
+      <p><b>Nov 2026 – Present • Ahmedabad, Gujarat, India • Full-Time Permanent Engineering Role</b></p>
+      <p>Engineering production-grade applications, scalable SaaS architectures, and intelligent software systems for high-growth startups and global enterprises.</p>
+      <ul>
+        <li><b>Backend & Systems Architecture:</b> Designing robust RESTful services, asynchronous background job processors, and fault-tolerant APIs using Python, FastAPI, and modern databases.</li>
+        <li><b>Rapid Product Engineering:</b> Architecting end-to-end full-stack solutions, responsive web platforms, and automated workflow integrations with enterprise quality standards.</li>
+        <li><b>Intelligent Systems:</b> Developing data-driven features, vector-indexed retrieval, and applied AI workflows tailored to business logic.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -220,7 +240,7 @@ current_learning: [Event-Driven Architecture, High-Concurrency Distributed Syste
 ### 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  Whether you have an engineering opening, an internship opportunity, or want to discuss Distributed Systems, Python, or Data Analytics — feel free to reach out!
+  Whether you want to discuss Distributed Systems, Python architectures, high-scale engineering, or open-source collaboration — feel free to reach out!
 </p>
 
 <p align="center">
