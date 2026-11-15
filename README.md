@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=720&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+udaan+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=720&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🚀 Full Stack Developer @ udaan</strong> • <strong>💻 Python, TypeScript, FastAPI & Next.js</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🚀 Full Stack Developer @ udaanworks</strong> • <strong>💻 Python, TypeScript, FastAPI & Next.js</strong>
   </p>
 
   <!-- Social & Credential Badges -->
@@ -33,7 +33,7 @@
 
 ```yaml
 name: Prachi Zala
-current_role: Full Stack Developer @ udaan 🚀
+current_role: Full Stack Developer @ udaanworks 🚀
 education: Bachelor of Computer Applications (BCA) @ Shanti Business School, Ahmedabad (CGPA: 9.12)
 role: Full Stack Developer | Distributed Backend & Modern Frontend Engineer
 focus_areas: [Distributed Backend, Modern Frontend, FastAPI, Next.js, Python, TypeScript, GraphRAG]
@@ -56,7 +56,7 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
   * 🎯 **Silver Oak University (SOU) Mini Hackathon:** Team Leader • built [MathSprint](https://github.com/prachizala/MATHSPRINT) (real-time multiplayer classroom speed-math battle arena).
   * 🌐 **VORTEX 2K26 Global AI Innovation Hackathon:** Team Leader (Team Eklavya).
   * 🚀 **VOYAGEHACK 4.0:** Team Leader driving sprint architecture and technical execution.
-* 🎯 **Professional Status:** Full Stack Developer at **[udaan](https://udaanworks.com/)**, actively engineering distributed backends, modern Next.js frontends, and open-source systems.
+* 🎯 **Professional Status:** Full Stack Developer at **[Udaanworks](https://udaanworks.com/)**, actively engineering distributed backends, modern Next.js frontends, and open-source systems.
 
 ---
 
@@ -65,7 +65,7 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
 <table>
   <tr>
     <td width="100%">
-      <h3><b>🚀 Full Stack Developer</b> — <a href="https://udaanworks.com/"><b>udaan</b></a></h3>
+      <h3><b>🚀 Full Stack Developer</b> — <a href="https://udaanworks.com/"><b>Udaanworks</b></a></h3>
       <p><b>Nov 2026 – Present • Ahmedabad, Gujarat, India • Permanent Role</b></p>
       <p>Engineering distributed backend architectures and modern full-stack web platforms using <b>Python, TypeScript, FastAPI, and Next.js</b>.</p>
       <ul>
