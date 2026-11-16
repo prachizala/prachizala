@@ -258,7 +258,7 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><b>🧠 MindPulse — Mood Tracker & Sentiment NLP</b></h3>
+      <h3 align="center"><b>🧠 mood-tracker-sentiment-analysis — NLP Sentiment Suite</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/NLP-Valence_Lexicons-blueviolet?style=flat-square" alt="NLP"/>
         <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square" alt="Streamlit"/>
