@@ -1,8 +1,10 @@
+# Hi, I'm Prachi Zala (Zala Prachi), a Full Stack Developer at Udaanworks in Ahmedabad, India
+
 <div align="center">
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=8C95FF&center=true&vCenter=true&width=720&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+Udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=8C95FF&center=true&vCenter=true&width=860&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+Udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Prachi Zala - Full Stack Developer at Udaanworks" />
   </a>
 
   <p align="center">
@@ -44,6 +46,7 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
 ```
 
 * ⚡ **Distributed Systems & Async Architecture:** Architected **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** — a production-grade asynchronous task execution engine engineered with Redis `SETNX` client-side enqueue idempotency, Celery worker crash recovery (`task_reject_on_worker_lost`), SQLAlchemy 2.0 async connection pooling, and 100% automated GitHub Actions CI/CD.
+* 🤖 **Anti-Proxy Biometric Attendance:** Engineered **[AI_Smart_Attendance_System](https://github.com/prachizala/AI_Smart_Attendance_System)** — mobile/web verification platform combining Haversine GPS geofencing (100m perimeter) with OpenCV facial feature matching, offline punch queues, and 35 automated tests.
 * 🌐 **Open-Source Core Contributor:** Contributed to **[encode/starlette](https://github.com/encode/starlette)** (the foundational ASGI framework powering FastAPI) fixing RFC 9110 compliant CORS preflight header handling on empty responses.
 * 🚨 **Mobile & Real-Time Edge Systems:** Engineered **[PulseSync](https://github.com/prachizala/Pulsesync)** — an offline-first real-time emergency & field ops dispatch engine built with Flutter, FastAPI, WebSockets, local SQLite persistence, and Redis geospatial radius indexing.
 * 🧘 **Native Android & On-Device NLP:** Developed **[Mental Health Tracker](https://github.com/prachizala/mental-health-tracker-android)** — an offline-first privacy-focused mindfulness suite featuring a pure-Java on-device Cognitive Distortion (CBT) and sentiment analysis engine with automated CI/CD and JUnit testing.
@@ -96,12 +99,26 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Top 5 Flagship Engineering Systems
+
+<div align="center">
+
+| # | Flagship System | Architectural Focus & Key Innovation | Core Tech Stack | Quality & Validation |
+|:---:|:---|:---|:---|:---:|
+| **1** | **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** | High-concurrency task execution with Redis `SETNX` enqueue idempotency, Celery worker crash recovery, & dead-letter queue | `Python`, `FastAPI`, `Celery`, `Redis`, `PostgreSQL`, `Docker` | [![CI/CD](https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/distributed-task-engine) |
+| **2** | **[AI_Smart_Attendance_System](https://github.com/prachizala/AI_Smart_Attendance_System)** | Anti-proxy verification platform combining Haversine GPS 100m geofencing with OpenCV facial feature embeddings | `Python`, `FastAPI`, `OpenCV`, `React Native (Expo)`, `SQLite` | [![Tests](https://img.shields.io/badge/Tests-35_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/AI_Smart_Attendance_System) |
+| **3** | **[attendance-data-analytics](https://github.com/prachizala/attendance-data-analytics)** | Workforce analytics on 3,550+ shifts with predictive XGBoost classifier (ROC-AUC 0.908) & interactive HR simulator | `Python`, `XGBoost`, `Scikit-Learn`, `Streamlit`, `Pandas` | [![Model](https://img.shields.io/badge/ROC--AUC-0.908-brightgreen?style=flat-square)](https://github.com/prachizala/attendance-data-analytics) |
+| **4** | **[enterprise-knowledge-copilot](https://github.com/prachizala/enterprise-knowledge-copilot)** | Enterprise GraphRAG uniting Neo4j multi-hop graph reasoning, pgvector dense embeddings & Reciprocal Rank Fusion | `Python`, `FastAPI`, `Neo4j`, `pgvector`, `Next.js 14`, `Ollama` | [![GenAI](https://img.shields.io/badge/GenAI-GraphRAG-blueviolet?style=flat-square)](https://github.com/prachizala/enterprise-knowledge-copilot) |
+| **5** | **[PulseSync](https://github.com/prachizala/Pulsesync)** | Offline-first real-time incident dispatch engine with sub-second WebSocket telemetry & Redis geospatial radius | `Flutter`, `Dart`, `FastAPI`, `WebSockets`, `Redis Geospatial`, `SQLite` | [![Offline-First](https://img.shields.io/badge/Offline--First-Local_SQLite_%2B_Sync-informational?style=flat-square)](https://github.com/prachizala/Pulsesync) |
+
+</div>
+
+<br/>
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><b>⚡ Distributed Task & Background Job Engine</b></h3>
+      <h3 align="center"><b>1. ⚡ Distributed Task & Background Job Engine</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square" alt="CI/CD Passing"/>
         <img src="https://img.shields.io/badge/Architecture-Idempotent_Enqueue-blue?style=flat-square" alt="Idempotent Enqueue"/>
@@ -114,35 +131,7 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><b>🚨 PulseSync — Emergency & Field Ops Dispatch Engine</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Offline--First-Local_SQLite_%2B_Sync-informational?style=flat-square" alt="Offline-First"/>
-        <img src="https://img.shields.io/badge/Telemetry-Real--Time_WebSockets-blueviolet?style=flat-square" alt="Real-Time WebSockets"/>
-        <img src="https://img.shields.io/badge/Geospatial-Redis_Radius_Dispatch-red?style=flat-square" alt="Redis Geospatial"/>
-      </p>
-      <p>Real-time incident dispatch and coordination engine for emergency first responders. Features offline-first local SQLite caching with bi-directional delta synchronization, sub-second WebSocket telemetry, and geospatial proximity radius dispatching.</p>
-      <p><b>Tech:</b> <code>Flutter</code>, <code>Dart</code>, <code>FastAPI</code>, <code>WebSockets</code>, <code>Redis Geospatial</code>, <code>SQLite</code></p>
-      <p align="center">
-        <a href="https://github.com/prachizala/Pulsesync"><b>🔗 View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><b>🧠 Enterprise Knowledge Copilot</b></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GenAI-GraphRAG-blueviolet?style=flat-square" alt="GraphRAG"/>
-        <img src="https://img.shields.io/badge/Database-Neo4j_%2B_pgvector-blue?style=flat-square" alt="Database"/>
-        <img src="https://img.shields.io/badge/Search-RRF_Hybrid_Rank-brightgreen?style=flat-square" alt="RRF Hybrid"/>
-      </p>
-      <p>Enterprise-grade Knowledge Graph RAG Copilot combining <b>PostgreSQL (pgvector)</b> dense embeddings with <b>Neo4j multi-hop graph traversals</b> and Reciprocal Rank Fusion (RRF) for hallucination-free factual reasoning with local Ollama containers.</p>
-      <p><b>Tech:</b> <code>Python</code>, <code>FastAPI</code>, <code>Neo4j</code>, <code>pgvector</code>, <code>Ollama</code>, <code>Next.js 14</code></p>
-      <p align="center">
-        <a href="https://github.com/prachizala/enterprise-knowledge-copilot"><b>🔗 View Repository</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><b>🤖 AI Smart Attendance & Geofenced Security</b></h3>
+      <h3 align="center"><b>2. 🤖 AI Smart Attendance & Geofenced Security</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/BCA_5th_Sem-Minor_Project-blue?style=flat-square" alt="BCA 5th Sem"/>
         <img src="https://img.shields.io/badge/Tests-35_Passing-brightgreen?style=flat-square" alt="Tests Passing"/>
@@ -157,7 +146,7 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><b>📊 90-Day Attendance Analytics & ML Simulator</b></h3>
+      <h3 align="center"><b>3. 📊 90-Day Attendance Analytics & ML Simulator</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/XGBoost-ROC--AUC_0.908-brightgreen?style=flat-square" alt="ROC-AUC 0.908"/>
         <img src="https://img.shields.io/badge/Streamlit-HR_Simulator-FF4B4B?style=flat-square" alt="Streamlit Simulator"/>
@@ -170,6 +159,43 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
       </p>
     </td>
     <td width="50%">
+      <h3 align="center"><b>4. 🧠 Enterprise Knowledge Copilot</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/GenAI-GraphRAG-blueviolet?style=flat-square" alt="GraphRAG"/>
+        <img src="https://img.shields.io/badge/Database-Neo4j_%2B_pgvector-blue?style=flat-square" alt="Database"/>
+        <img src="https://img.shields.io/badge/Search-RRF_Hybrid_Rank-brightgreen?style=flat-square" alt="RRF Hybrid"/>
+      </p>
+      <p>Enterprise-grade Knowledge Graph RAG Copilot combining <b>PostgreSQL (pgvector)</b> dense embeddings with <b>Neo4j multi-hop graph traversals</b> and Reciprocal Rank Fusion (RRF) for hallucination-free factual reasoning with local Ollama containers.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>FastAPI</code>, <code>Neo4j</code>, <code>pgvector</code>, <code>Ollama</code>, <code>Next.js 14</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/enterprise-knowledge-copilot"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><b>5. 🚨 PulseSync — Emergency & Field Ops Dispatch Engine</b></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Offline--First-Local_SQLite_%2B_Sync-informational?style=flat-square" alt="Offline-First"/>
+        <img src="https://img.shields.io/badge/Telemetry-Real--Time_WebSockets-blueviolet?style=flat-square" alt="Real-Time WebSockets"/>
+        <img src="https://img.shields.io/badge/Geospatial-Redis_Radius_Dispatch-red?style=flat-square" alt="Redis Geospatial"/>
+      </p>
+      <p>Real-time incident dispatch and coordination engine for emergency first responders. Features offline-first local SQLite caching with bi-directional delta synchronization, sub-second WebSocket telemetry, and geospatial proximity radius dispatching.</p>
+      <p><b>Tech:</b> <code>Flutter</code>, <code>Dart</code>, <code>FastAPI</code>, <code>WebSockets</code>, <code>Redis Geospatial</code>, <code>SQLite</code></p>
+      <p align="center">
+        <a href="https://github.com/prachizala/Pulsesync"><b>🔗 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🚀 Hackathon Innovations & Real-Time Client Systems
+
+<table>
+  <tr>
+    <td width="50%">
       <h3 align="center"><b>⚡ MathSprint — Real-Time Multiplayer Math Battle</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/SOU_Mini_Hackathon-Team_Leader-orange?style=flat-square" alt="SOU Mini Hackathon"/>
@@ -181,8 +207,6 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
         <a href="https://github.com/prachizala/MATHSPRINT"><b>🔗 View Repository</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center"><b>🧘 Mental Health Tracker — On-Device CBT Suite</b></h3>
       <p align="center">
@@ -196,7 +220,9 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
         <a href="https://github.com/prachizala/mental-health-tracker-android"><b>🔗 View Repository</b></a>
       </p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td colspan="2">
       <h3 align="center"><b>🏛️ Dharohar 4D — 3D Heritage Digital Twin</b></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/HACKCULT_'26-Team_Leader-orange?style=flat-square" alt="HACKCULT '26"/>
