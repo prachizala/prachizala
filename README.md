@@ -1,14 +1,14 @@
-# Hi, I'm Prachi Zala (Zala Prachi), a Full Stack Developer at Udaanworks in Ahmedabad, India
+# Hi, I'm Prachi Zala (Zala Prachi), Founder @ NyayaSutra & Full Stack Developer @ Udaanworks
 
 <div align="center">
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=8C95FF&center=true&vCenter=true&width=860&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+Udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Prachi Zala - Full Stack Developer at Udaanworks" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=8C95FF&center=true&vCenter=true&width=860&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Founder+%40+NyayaSutra+%E2%9A%96%EF%B8%8F;Full+Stack+Developer+%40+Udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Vernacular+AI;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Prachi Zala - Founder @ NyayaSutra & Full Stack Developer @ Udaanworks" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🚀 Full Stack Developer @ Udaanworks</strong> • <strong>💻 Python, TypeScript, FastAPI & Next.js</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>⚖️ Founder @ NyayaSutra</strong> • <strong>🚀 Full Stack Dev @ Udaanworks</strong> • <strong>💻 Python, TypeScript, FastAPI & Next.js</strong>
   </p>
 
   <!-- Social & Credential Badges -->
