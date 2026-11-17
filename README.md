@@ -1,14 +1,14 @@
-# Hi, I'm Prachi Zala (Zala Prachi), Founder @ NyayaSutra & Full Stack Developer @ Udaanworks
+# Hi, I'm Prachi Zala (Zala Prachi), a Full Stack Developer at Udaanworks in Ahmedabad, India
 
 <div align="center">
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=8C95FF&center=true&vCenter=true&width=860&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Founder+%40+NyayaSutra+%E2%9A%96%EF%B8%8F;Full+Stack+Developer+%40+Udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Vernacular+AI;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Prachi Zala - Founder @ NyayaSutra & Full Stack Developer @ Udaanworks" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=8C95FF&center=true&vCenter=true&width=860&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+Udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Prachi Zala - Full Stack Developer at Udaanworks" />
   </a>
 
   <p align="center">
-    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>⚖️ Founder @ NyayaSutra</strong> • <strong>🚀 Full Stack Dev @ Udaanworks</strong> • <strong>💻 Python, TypeScript, FastAPI & Next.js</strong>
+    <strong>📍 Ahmedabad, Gujarat, India</strong> • <strong>🚀 Full Stack Developer @ Udaanworks</strong> • <strong>💻 Python, TypeScript, FastAPI & Next.js</strong>
   </p>
 
   <!-- Social & Credential Badges -->
@@ -35,17 +35,17 @@
 
 ```yaml
 name: Prachi Zala
-current_role: Full Stack Developer @ Udaanworks 🚀 | Founder @ NyayaSutra ⚖️
+current_role: Full Stack Developer @ Udaanworks 🚀
 education: Bachelor of Computer Applications (BCA) @ Shanti Business School, Ahmedabad (CGPA: 9.12)
-role: Full Stack Developer & Founder | Distributed Backend, Modern Frontend & Legal AI
-focus_areas: [Distributed Backend, Modern Frontend, FastAPI, Next.js, Python, TypeScript, GraphRAG, Vernacular AI]
+role: Full Stack Developer | Distributed Backend & Modern Frontend Engineer
+focus_areas: [Distributed Backend, Modern Frontend, FastAPI, Next.js, Python, TypeScript, GraphRAG]
 open_source: Contributor @ Starlette (FastAPI Core - RFC 9110 Compliance)
 hackathons: 6x Team Leader (SIH Internal 🥈, HACKCULT '26, Hackbriven, VORTEX 2K26, SOU)
 core_stack: [Python, TypeScript, FastAPI, Next.js 14, Celery, Redis, Docker Compose, PostgreSQL]
 current_learning: [High-Concurrency Distributed Systems, Event-Driven Architecture, Micro-Frontends]
 ```
 
-* ⚖️ **Founder & Lead Architect — [NyayaSutra (न्यायसूत्र)](https://github.com/prachizala/NyayaSutra):** Architecting Bharat's first voice-first vernacular legal & civic intelligence engine. Democratizing court records, land dispute resolution (7/12 Satbara), and automatic Indian Penal Code to Bharatiya Nyaya Sanhita (BNS 2023) law mapping across regional dialects (Gujarati, Hindi) with automated notice drafting.
+* ⚖️ **Legal Tech & AI — [NyayaSutra (न्यायसूत्र)](https://github.com/prachizala/NyayaSutra):** A voice-first vernacular legal & civic intelligence engine built for Bharat. Demystifying court records, land dispute resolution (7/12 Satbara), and automatic Indian Penal Code to Bharatiya Nyaya Sanhita (BNS 2023) law mapping across regional dialects (Gujarati, Hindi) with automated notice drafting.
 * ⚡ **Distributed Systems & Async Architecture:** Architected **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** — a production-grade asynchronous task execution engine engineered with Redis `SETNX` client-side enqueue idempotency, Celery worker crash recovery (`task_reject_on_worker_lost`), SQLAlchemy 2.0 async connection pooling, and 100% automated GitHub Actions CI/CD.
 * 🤖 **Anti-Proxy Biometric Attendance:** Engineered **[AI_Smart_Attendance_System](https://github.com/prachizala/AI_Smart_Attendance_System)** — mobile/web verification platform combining Haversine GPS geofencing (100m perimeter) with OpenCV facial feature matching, offline punch queues, and 35 automated tests.
 * 🌐 **Open-Source Core Contributor:** Contributed to **[encode/starlette](https://github.com/encode/starlette)** (the foundational ASGI framework powering FastAPI) fixing RFC 9110 compliant CORS preflight header handling on empty responses.
