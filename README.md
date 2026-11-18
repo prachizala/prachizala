@@ -46,6 +46,7 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
 ```
 
 * ⚖️ **Legal Tech & AI — [NyayaSutra (न्यायसूत्र)](https://github.com/prachizala/NyayaSutra):** A voice-first vernacular legal & civic intelligence engine built for Bharat. Demystifying court records, land dispute resolution (7/12 Satbara), and automatic Indian Penal Code to Bharatiya Nyaya Sanhita (BNS 2023) law mapping across regional dialects (Gujarati, Hindi) with automated notice drafting.
+* 🎬 **High-Performance Media & Streaming — [StreamForge](https://github.com/prachizala/StreamForge):** A distributed real-time media processing pipeline combining Next.js 14, high-concurrency Go worker gateway, and a native Rust media compute kernel for sub-millisecond audio waveform extraction and video watermarking.
 * ⚡ **Distributed Systems & Async Architecture:** Architected **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** — a production-grade asynchronous task execution engine engineered with Redis `SETNX` client-side enqueue idempotency, Celery worker crash recovery (`task_reject_on_worker_lost`), SQLAlchemy 2.0 async connection pooling, and 100% automated GitHub Actions CI/CD.
 * 🤖 **Anti-Proxy Biometric Attendance:** Engineered **[AI_Smart_Attendance_System](https://github.com/prachizala/AI_Smart_Attendance_System)** — mobile/web verification platform combining Haversine GPS geofencing (100m perimeter) with OpenCV facial feature matching, offline punch queues, and 35 automated tests.
 * 🌐 **Open-Source Core Contributor:** Contributed to **[encode/starlette](https://github.com/encode/starlette)** (the foundational ASGI framework powering FastAPI) fixing RFC 9110 compliant CORS preflight header handling on empty responses.
@@ -89,6 +90,8 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -139,17 +142,18 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
 
 ---
 
-### 🌟 Top 5 Flagship Engineering Systems
+### 🌟 Top 6 Flagship Engineering Systems
 
 <div align="center">
 
 | # | Flagship System | Architectural Focus & Key Innovation | Core Tech Stack | Quality & Validation |
 |:---:|:---|:---|:---|:---:|
-| **1** | **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** | High-concurrency task execution with Redis `SETNX` enqueue idempotency, Celery worker crash recovery, & dead-letter queue | `Python`, `FastAPI`, `Celery`, `Redis`, `PostgreSQL`, `Docker` | [![CI/CD](https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/distributed-task-engine) |
-| **2** | **[AI_Smart_Attendance_System](https://github.com/prachizala/AI_Smart_Attendance_System)** | Anti-proxy verification platform combining Haversine GPS 100m geofencing with OpenCV facial feature embeddings | `Python`, `FastAPI`, `OpenCV`, `React Native (Expo)`, `SQLite` | [![Tests](https://img.shields.io/badge/Tests-35_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/AI_Smart_Attendance_System) |
-| **3** | **[attendance-data-analytics](https://github.com/prachizala/attendance-data-analytics)** | Workforce analytics on 3,550+ shifts with predictive XGBoost classifier (ROC-AUC 0.908) & interactive HR simulator | `Python`, `XGBoost`, `Scikit-Learn`, `Streamlit`, `Pandas` | [![Model](https://img.shields.io/badge/ROC--AUC-0.908-brightgreen?style=flat-square)](https://github.com/prachizala/attendance-data-analytics) |
-| **4** | **[enterprise-knowledge-copilot](https://github.com/prachizala/enterprise-knowledge-copilot)** | Enterprise GraphRAG uniting Neo4j multi-hop graph reasoning, pgvector dense embeddings & Reciprocal Rank Fusion | `Python`, `FastAPI`, `Neo4j`, `pgvector`, `Next.js 14`, `Ollama` | [![GenAI](https://img.shields.io/badge/GenAI-GraphRAG-blueviolet?style=flat-square)](https://github.com/prachizala/enterprise-knowledge-copilot) |
-| **5** | **[PulseSync](https://github.com/prachizala/Pulsesync)** | Offline-first real-time incident dispatch engine with sub-second WebSocket telemetry & Redis geospatial radius | `Flutter`, `Dart`, `FastAPI`, `WebSockets`, `Redis Geospatial`, `SQLite` | [![Offline-First](https://img.shields.io/badge/Offline--First-Local_SQLite_%2B_Sync-informational?style=flat-square)](https://github.com/prachizala/Pulsesync) |
+| **1** | **[StreamForge](https://github.com/prachizala/StreamForge)** | Real-time distributed media processing pipeline combining Next.js 14, Go worker gateway, & native Rust compute kernel | `Next.js 14`, `Go (Golang)`, `Rust`, `WebSockets`, `Docker` | [![CI/CD](https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/StreamForge) |
+| **2** | **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** | High-concurrency task execution with Redis `SETNX` enqueue idempotency, Celery worker crash recovery, & dead-letter queue | `Python`, `FastAPI`, `Celery`, `Redis`, `PostgreSQL`, `Docker` | [![CI/CD](https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/distributed-task-engine) |
+| **3** | **[AI_Smart_Attendance_System](https://github.com/prachizala/AI_Smart_Attendance_System)** | Anti-proxy verification platform combining Haversine GPS 100m geofencing with OpenCV facial feature embeddings | `Python`, `FastAPI`, `OpenCV`, `React Native (Expo)`, `SQLite` | [![Tests](https://img.shields.io/badge/Tests-35_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/AI_Smart_Attendance_System) |
+| **4** | **[attendance-data-analytics](https://github.com/prachizala/attendance-data-analytics)** | Workforce analytics on 3,550+ shifts with predictive XGBoost classifier (ROC-AUC 0.908) & interactive HR simulator | `Python`, `XGBoost`, `Scikit-Learn`, `Streamlit`, `Pandas` | [![Model](https://img.shields.io/badge/ROC--AUC-0.908-brightgreen?style=flat-square)](https://github.com/prachizala/attendance-data-analytics) |
+| **5** | **[enterprise-knowledge-copilot](https://github.com/prachizala/enterprise-knowledge-copilot)** | Enterprise GraphRAG uniting Neo4j multi-hop graph reasoning, pgvector dense embeddings & Reciprocal Rank Fusion | `Python`, `FastAPI`, `Neo4j`, `pgvector`, `Next.js 14`, `Ollama` | [![GenAI](https://img.shields.io/badge/GenAI-GraphRAG-blueviolet?style=flat-square)](https://github.com/prachizala/enterprise-knowledge-copilot) |
+| **6** | **[PulseSync](https://github.com/prachizala/Pulsesync)** | Offline-first real-time incident dispatch engine with sub-second WebSocket telemetry & Redis geospatial radius | `Flutter`, `Dart`, `FastAPI`, `WebSockets`, `Redis Geospatial`, `SQLite` | [![Offline-First](https://img.shields.io/badge/Offline--First-Local_SQLite_%2B_Sync-informational?style=flat-square)](https://github.com/prachizala/Pulsesync) |
 
 </div>
 
