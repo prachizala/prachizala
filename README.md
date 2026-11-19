@@ -45,23 +45,11 @@ core_stack: [Python, TypeScript, FastAPI, Next.js 14, Celery, Redis, Docker Comp
 current_learning: [High-Concurrency Distributed Systems, Event-Driven Architecture, Micro-Frontends]
 ```
 
-* ⚖️ **Legal Tech & AI — [NyayaSutra (न्यायसूत्र)](https://github.com/prachizala/NyayaSutra):** A voice-first vernacular legal & civic intelligence engine built for Bharat. Demystifying court records, land dispute resolution (7/12 Satbara), and automatic Indian Penal Code to Bharatiya Nyaya Sanhita (BNS 2023) law mapping across regional dialects (Gujarati, Hindi) with automated notice drafting.
-* 🎬 **High-Performance Media & Streaming — [StreamForge](https://github.com/prachizala/StreamForge):** A distributed real-time media processing pipeline combining Next.js 14, high-concurrency Go worker gateway, and a native Rust media compute kernel for sub-millisecond audio waveform extraction and video watermarking.
-* ⚡ **Distributed Systems & Async Architecture:** Architected **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** — a production-grade asynchronous task execution engine engineered with Redis `SETNX` client-side enqueue idempotency, Celery worker crash recovery (`task_reject_on_worker_lost`), SQLAlchemy 2.0 async connection pooling, and 100% automated GitHub Actions CI/CD.
-* 🤖 **Anti-Proxy Biometric Attendance:** Engineered **[AI_Smart_Attendance_System](https://github.com/prachizala/AI_Smart_Attendance_System)** — mobile/web verification platform combining Haversine GPS geofencing (100m perimeter) with OpenCV facial feature matching, offline punch queues, and 35 automated tests.
-* 🌐 **Open-Source Core Contributor:** Contributed to **[encode/starlette](https://github.com/encode/starlette)** (the foundational ASGI framework powering FastAPI) fixing RFC 9110 compliant CORS preflight header handling on empty responses.
-* 🚨 **Mobile & Real-Time Edge Systems:** Engineered **[PulseSync](https://github.com/prachizala/Pulsesync)** — an offline-first real-time emergency & field ops dispatch engine built with Flutter, FastAPI, WebSockets, local SQLite persistence, and Redis geospatial radius indexing.
-* 🧘 **Native Android & On-Device NLP:** Developed **[Mental Health Tracker](https://github.com/prachizala/mental-health-tracker-android)** — an offline-first privacy-focused mindfulness suite featuring a pure-Java on-device Cognitive Distortion (CBT) and sentiment analysis engine with automated CI/CD and JUnit testing.
-* 🧠 **GenAI & Graph Reasoning:** Designed **[Enterprise Knowledge Copilot](https://github.com/prachizala/enterprise-knowledge-copilot)** — Knowledge Graph RAG combining Neo4j multi-hop relationship traversals with PostgreSQL (`pgvector`) dense embeddings and Reciprocal Rank Fusion (RRF).
-* 📊 **Data Analytics & Applied ML:** Proven track record in predictive analytics and data storytelling with **Pandas, NumPy, XGBoost, and Streamlit**, including workforce intelligence modeling across 3,550+ shifts ([attendance-data-analytics](https://github.com/prachizala/attendance-data-analytics)).
-* 👥 **Hackathon Leadership Track Record (6× Team Leader):**
-  * 🥈 **Smart India Hackathon (SIH 2026):** Team Leader of 6-member squad (Team CyberForge) to **2nd Place** (58/60) in internal college hackathon.
-  * ⚡ **HACKCULT '26 (IIT Gandhinagar × NxtWave):** Team Leader of **Team Believers** • built [Dharohar 4D](https://github.com/prachizala/dharohar-4d) (3D Heritage Digital Twin platform).
-  * 🏆 **Hackbriven Hackathon (Ahmedabad):** Team Leader at premier National-Level Hackathon • built [Qoneqt](https://github.com/prachizala/Qoneqt-ContentOS) (ContentOS workflow engine).
-  * 🎯 **Silver Oak University (SOU) Mini Hackathon:** Team Leader • built [MathSprint](https://github.com/prachizala/MATHSPRINT) (real-time multiplayer classroom speed-math battle arena).
-  * 🌐 **VORTEX 2K26 Global AI Innovation Hackathon:** Team Leader (Team Eklavya).
-  * 🚀 **VOYAGEHACK 4.0:** Team Leader driving sprint architecture and technical execution.
-* 🎯 **Professional Status:** Full Stack Developer at **[Udaanworks](https://udaanworks.com/)**, actively engineering distributed backends, modern Next.js frontends, and open-source systems.
+* 🚀 **Full Stack Developer** at **[Udaanworks](https://udaanworks.com/)**, engineering scalable SaaS architectures and asynchronous backend workflows with **Python, TypeScript, FastAPI, and Next.js**.
+* 🌐 **Open-Source Contributor:** Contributed to **[encode/starlette](https://github.com/encode/starlette)** (the ASGI framework powering FastAPI) for RFC 9110 HTTP specification compliance on empty responses.
+* 🎓 **Academic Excellence:** Pursuing BCA at Shanti Business School, Ahmedabad with a **9.12 CGPA**.
+* 🏆 **6× Hackathon Team Leader:** Led engineering squads to 2nd place in SIH 2026 Internal, and built award-winning prototypes at HACKCULT '26, Hackbriven, and VOYAGEHACK 4.0.
+* ⚡ **Systems Engineering:** Passionate about distributed queues, real-time media engines, and resilient data architectures *(detailed in the Flagship Systems table below)*.
 
 ---
 
