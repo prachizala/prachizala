@@ -4,7 +4,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/prachizala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=8C95FF&center=true&vCenter=true&width=860&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+Udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Prachi Zala - Full Stack Developer at Udaanworks" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=860&lines=Hey+there!+%F0%9F%91%8B+I'm+Prachi+Zala;Full+Stack+Developer+%40+Udaanworks+%F0%9F%9A%80;Python%2C+TypeScript%2C+FastAPI+%26+Next.js;Distributed+Backend+%26+Modern+Frontend;Contributor+%40+Starlette+(FastAPI+Core)+%E2%9C%A8" alt="Prachi Zala - Full Stack Developer at Udaanworks" />
   </a>
 
   <p align="center">
@@ -20,7 +20,7 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=prachizala&label=Profile%20Views&color=8C95FF&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=prachizala&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
   </p>
 
   <p align="center">
@@ -177,23 +177,19 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity & Stats
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=prachizala&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8)
+  <img src="https://github-readme-stats.vercel.app/api?username=prachizala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" alt="Prachi's GitHub Stats" />
 
-</div>
+  <br/>
 
-## 📊 GitHub Stats
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachizala&theme=tokyonight&hide_border=true&background=0D1117&stroke=7aa2f7&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideNums=7aa2f7&sideLabels=c0caf5&dates=7dcfff" alt="Prachi's GitHub Streak" />
 
-<div align="center">
+  <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachizala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prachizala&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachizala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachizala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
 
 </div>
 
