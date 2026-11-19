@@ -60,17 +60,14 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
     <td width="100%">
       <h3><b>🚀 Full Stack Developer</b> — <a href="https://udaanworks.com/"><b>Udaanworks</b></a></h3>
       <p><b>Nov 2026 – Present • Ahmedabad, Gujarat, India</b></p>
-      <p>Engineering distributed backend architectures and modern full-stack web platforms using <b>Python, TypeScript, FastAPI, and Next.js</b>.</p>
+      <p><b>Full Stack Languages & Technologies:</b> <code>Python</code> • <code>TypeScript</code> • <code>JavaScript</code> • <code>FastAPI</code> • <code>Next.js 14</code> • <code>PostgreSQL</code> • <code>Redis</code></p>
       <ul>
-        <li><b>Distributed Backend & Systems:</b> Architecting robust RESTful services, asynchronous background task pipelines, and resilient APIs with FastAPI, PostgreSQL, and Redis.</li>
-        <li><b>Modern Frontend Engineering:</b> Building responsive, performant user interfaces and design systems using Next.js 14, TypeScript, and modern component frameworks.</li>
-        <li><b>Full-Stack Integration:</b> Delivering end-to-end scalable SaaS features, high-velocity product delivery, and enterprise-grade reliability.</li>
+        <li><b>Backend & Systems:</b> Architecting asynchronous RESTful APIs, Redis background task queues, and resilient database schemas.</li>
+        <li><b>Frontend & UI:</b> Engineering responsive, high-performance web applications using Next.js 14, React, and modern component systems.</li>
       </ul>
     </td>
   </tr>
 </table>
-
----
 
 ---
 
