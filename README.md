@@ -131,22 +131,38 @@ current_learning: [High-Concurrency Distributed Systems, Event-Driven Architectu
 
 ---
 
-### 🌟 Top 6 Flagship Engineering Systems
+### 🚀 Featured Engineering Systems
 
-<div align="center">
-
-| # | Flagship System | Architectural Focus & Key Innovation | Core Tech Stack | Quality & Validation |
-|:---:|:---|:---|:---|:---:|
-| **1** | **[StreamForge](https://github.com/prachizala/StreamForge)** | Real-time distributed media processing pipeline combining Next.js 14, Go worker gateway, & native Rust compute kernel | `Next.js 14`, `Go (Golang)`, `Rust`, `WebSockets`, `Docker` | [![CI/CD](https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/StreamForge) |
-| **2** | **[NyayaSutra](https://github.com/prachizala/NyayaSutra)** | Voice-first vernacular legal AI engine for land dispute resolution (7/12 Satbara) & IPC-to-BNS 2023 concordance | `Python`, `FastAPI`, `RAG`, `NLP`, `Streamlit` | [![CI/CD](https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/NyayaSutra) |
-| **3** | **[distributed-task-engine](https://github.com/prachizala/distributed-task-engine)** | High-concurrency task execution with Redis `SETNX` enqueue idempotency, Celery worker crash recovery, & dead-letter queue | `Python`, `FastAPI`, `Celery`, `Redis`, `PostgreSQL`, `Docker` | [![CI/CD](https://img.shields.io/badge/CI%2FCD-100%25_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/distributed-task-engine) |
-| **4** | **[PulseSync](https://github.com/prachizala/Pulsesync)** | Offline-first real-time incident dispatch engine with sub-second WebSocket telemetry & Redis geospatial radius | `Flutter`, `Dart`, `FastAPI`, `WebSockets`, `Redis Geospatial`, `SQLite` | [![Offline-First](https://img.shields.io/badge/Offline--First-Local_SQLite_%2B_Sync-informational?style=flat-square)](https://github.com/prachizala/Pulsesync) |
-| **5** | **[enterprise-knowledge-copilot](https://github.com/prachizala/enterprise-knowledge-copilot)** | Enterprise GraphRAG uniting Neo4j multi-hop graph reasoning, pgvector dense embeddings & Reciprocal Rank Fusion | `Python`, `FastAPI`, `Neo4j`, `pgvector`, `Next.js 14`, `Ollama` | [![GenAI](https://img.shields.io/badge/GenAI-GraphRAG-blueviolet?style=flat-square)](https://github.com/prachizala/enterprise-knowledge-copilot) |
-| **6** | **[AI_Smart_Attendance_System](https://github.com/prachizala/AI_Smart_Attendance_System)** | Anti-proxy verification platform combining Haversine GPS 100m geofencing with OpenCV facial feature embeddings | `Python`, `FastAPI`, `OpenCV`, `React Native (Expo)`, `SQLite` | [![Tests](https://img.shields.io/badge/Tests-35_Passing-brightgreen?style=flat-square)](https://github.com/prachizala/AI_Smart_Attendance_System) |
-
-</div>
-
-<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🎬 <a href="https://github.com/prachizala/StreamForge"><b>StreamForge</b></a></h3>
+      <p><b>Distributed Real-Time Media Pipeline</b></p>
+      <p>Sub-millisecond audio waveform extraction, dynamic frame watermarking, and live WebSocket telemetry combining Next.js 14, Go worker gateway, and native Rust compute kernel.</p>
+      <p><code>Next.js 14</code> • <code>Go</code> • <code>Rust</code> • <code>WebSockets</code> • <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">⚖️ <a href="https://github.com/prachizala/NyayaSutra"><b>NyayaSutra</b></a></h3>
+      <p><b>Vernacular Legal AI &amp; Civic Engine</b></p>
+      <p>Voice-first legal intelligence demystifying land records (7/12 Satbara) and automated Indian Penal Code to BNS 2023 law concordance across regional dialects.</p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>RAG</code> • <code>NLP</code> • <code>Streamlit</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">⚡ <a href="https://github.com/prachizala/distributed-task-engine"><b>distributed-task-engine</b></a></h3>
+      <p><b>High-Concurrency Async Execution Engine</b></p>
+      <p>Production asynchronous task execution engineered with Redis <code>SETNX</code> enqueue idempotency, Celery worker crash recovery, and async PostgreSQL connection pooling.</p>
+      <p><code>Python</code> • <code>FastAPI</code> • <code>Celery</code> • <code>Redis</code> • <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🚨 <a href="https://github.com/prachizala/Pulsesync"><b>PulseSync</b></a></h3>
+      <p><b>Offline-First Emergency Dispatch Platform</b></p>
+      <p>Incident dispatch engine for field responders with local SQLite caching, automatic bi-directional sync conflict resolution, and Redis geospatial radius dispatching.</p>
+      <p><code>Flutter</code> • <code>Dart</code> • <code>FastAPI</code> • <code>WebSockets</code> • <code>SQLite</code></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <br/>
